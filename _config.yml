@@ -1,0 +1,35 @@
+# standard jekyll configuration options
+
+exclude: ['Rakefile', 'README.md', 'config.rb', 'vender']
+
+# configuration required for some pages
+
+domain: blog.github.com
+title: アスタデザインのブログ
+author: Toshiya Takeshita
+email: toshi@atbat.jp
+
+permalink: /:categories/:year-:month-:day/:title
+
+# configuration for ehancements, uncomment to enable
+
+# feedburner:
+#   id: feedburnerid
+
+google_analytics:
+  account: UA-963685-21
+
+#github:
+#  username: CyblerMameCAN
+
+disqus:
+  id: cybermamecan
+
+sass:
+  syntax: scss        # scss|sass
+  style:  compressed  # nested|expanded|compact|compressed
+
+# feed.xml
+name: アスタデザインのブログ
+description: 薩摩の玄関口、出水市でWeb作ってます。
+url: http://room.atbat.jp

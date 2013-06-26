@@ -1,0 +1,33 @@
+---
+layout: default
+description: 出水市の事やWebを作るときの技術情報
+---
+
+<div id="posts">
+  <ul>
+    {% for post in site.posts %}
+      <li class="item">
+        <img src="assets/images/{{ post.sumnail }}" width="220" alt="" />
+        <div>
+          <p class="date"><span>{{ post.date | date: "%Y年%m月%d日" }}</span></p>
+          <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+          <p class="post_discription">{{ post.excerpt }}</p>
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+</div><!-- posts -->
+
+<script  src="/assets/javascripts/jquery.masonry.min.js" charset="utf-8"></script>
+<script>
+	$(function(){
+		var $container = $('#contents');
+		$container.imagesLoaded( function(){
+			$container.masonry({
+				itemSelector : '.item',
+				isAnimated : true
+			});
+		});
+	});
+</script>
+
