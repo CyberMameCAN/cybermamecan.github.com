@@ -27,9 +27,9 @@ disqus:
 
 sass:
   syntax: scss        # scss|sass
-  style:  compressed  # nested|expanded|compact|compressed
+  style:  expanded  # nested|expanded|compact|compressed
 
 # feed.xml
 name: アスタデザインのブログ
-description: 薩摩の玄関口、出水市でWeb作ってます。
+description: 薩摩の玄関口、出水市でWeb( ホームページ )作っているアスタデザインのブログです。
 url: http://room.atbat.jp
