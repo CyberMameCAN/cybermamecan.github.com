@@ -1,0 +1,339 @@
+@charset "UTF-8";
+html {
+  font-family: "ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic W3", "メイリオ", Meiryo, Osaka, "MS Pゴシック", "MS P Gothic", sans-serif;
+  font: 17px/1.231 arial, helvetica, clean, sans-serif;
+  *font-size: small;
+  *font: x-small;
+  line-height: normal;
+  /*	background: #ccc;*/
+  background-color: #2d0f00;
+  padding: 0.5em;
+}
+
+/* Opera 9 */
+body {
+  font-family: "メイリオ", Meiryo, sans-serif;
+}
+
+/* Internet Explorer 7 */
+*:first-child + html body {
+  font-family: "メイリオ", Meiryo, sans-serif;
+}
+
+/* Internet Explorer 6 or sooner */
+* html body {
+  font-family: "メイリオ", Meiryo, sans-serif;
+}
+
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td {
+  margin: 0;
+  padding: 0;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+fieldset, img {
+  border: 0;
+}
+
+address, caption, cite, code, dfn, em, var {
+  font-style: normal;
+  font-weight: normal;
+}
+
+li {
+  list-style: none;
+}
+
+caption, th {
+  text-align: left;
+}
+
+h1, h2, h3, h4 {
+  /*font-size: 100%;*/
+}
+
+strong {
+  color: #6abee5;
+}
+
+em {
+  font-weight: bold;
+  font-style: normal;
+}
+
+input, textarea, select {
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+}
+
+legend {
+  color: #333;
+}
+
+table {
+  font-size: inherit;
+  font: 100%;
+}
+
+pre, code {
+  font-family: monospace;
+  *font-size: 108%;
+  line-height: 100%;
+}
+
+/* HTML5 リセット */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+
+/* clearfix */
+/* For modern browsers */
+.cf:before, .cf:after {
+  content: "";
+  display: table;
+}
+
+.cf:after {
+  clear: both;
+}
+
+/* For IE 6/7 (trigger hasLayout) */
+.cf {
+  zoom: 1;
+}
+
+/* リンク */
+a:link {
+  color: #339963;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #339963;
+  text-decoration: none;
+}
+
+a:active {
+  color: #339963;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #339963;
+  text-decoration: underline;
+}
+
+#whitebase {
+  width: 100%;
+  /*	background-color: #773d3d;*/
+  /*	background-color: #2d0f00;*/
+  background-color: #eeeeee;
+}
+
+#header {
+  height: 101px;
+  width: 100%;
+  /*	background: transparent url(../images/header-bg.jpg) center center repeat-x;*/
+  background: transparent url(../images/header-bg-4.png) center center;
+  border-bottom: 7px solid #aaa;
+  /* ロゴ */
+  /* グローバルメニュー */
+}
+#header #hgroup {
+  width: 35%;
+  float: left;
+}
+#header #site-logo {
+  float: left;
+  width: 49%;
+  margin-top: 25px;
+  margin-left: 50px;
+}
+#header #main-nav {
+  width: 300px;
+  float: right;
+  /* 	background: transparent url(../images/g-menu.png) center center no-repeat;*/
+  background-color: #7bb142;
+  border-radius: 6px;
+  margin-top: 35px;
+  margin-right: 50px;
+  padding: 5px;
+  height: 26px;
+}
+#header #main-nav li {
+  float: left;
+  width: 50%;
+  text-align: center;
+}
+#header #main-nav li a {
+  width: 100%;
+  height: 100%;
+  display: block;
+  text-decoration: none;
+  color: #fff;
+  font-size: 15px/1.231;
+}
+
+#contents {
+  clear: both;
+  margin-bottom: 51px;
+}
+
+#posts li.item {
+  width: 220px;
+  margin: 10px 0 0 10px;
+  float: left;
+  background: #fff;
+  color: #333;
+  border: 1px solid #ccc;
+}
+#posts li.item div {
+  padding: 10px;
+}
+#posts li.item .date {
+  font-size: 80%;
+  color: #808080;
+}
+#posts li.item h2 {
+  font-size: 105%;
+  margin-bottom: 0.5em;
+}
+#posts li.item .post_discription {
+  font-size: 90%;
+}
+
+#myblog {
+  width: 50%;
+  float: left;
+  margin-left: 17px;
+}
+#myblog #blog_head {
+  background-color: #eeeeee;
+  color: #333;
+  margin-bottom: 51px;
+  padding: 8px;
+}
+#myblog #blog_head h1 {
+  background-color: #fff;
+  /*      border-left: 1px solid #da50dc;*/
+  /*      border-top: 1px solid #aaa;
+        border-bottom: 1px solid #aaa;
+        border-right: 1px solid #aaa;*/
+  border-left: 1px solid #339963;
+  padding: 0.3em;
+  margin-bottom: 0.5em;
+  font-size: 150%;
+}
+#myblog #blog_head h1:first-letter {
+  font-size: 160%;
+  /*      color: #da50dc;*/
+  color: #339963;
+}
+#myblog #blog_head .postdate,
+#myblog #blog_head .posttags {
+  font-size: 85%;
+  color: #666666;
+}
+#myblog .post {
+  background: rgba(255, 255, 255, 0.9);
+  color: #333;
+  /*    background-color: #311100;*/
+  border: 1px solid #6b2d00;
+  border-left: 1px solid #339963;
+  padding: 17px;
+  margin-bottom: 34px;
+}
+#myblog .post h2 {
+  font-size: 120%;
+  margin-bottom: 1em;
+  padding-bottom: 5px;
+  border-bottom: 1px solid #ccc;
+}
+#myblog .post h2 span {
+  border-bottom: 3px solid #339963;
+  padding-bottom: 8px;
+}
+#myblog .post h3 {
+  font-size: 100%;
+  margin-bottom: 0.5em;
+}
+#myblog .post p {
+  margin-bottom: 1em;
+}
+#myblog .post img {
+  padding: 5px;
+  background-color: #fff;
+}
+#myblog .post ul {
+  margin-bottom: 1em;
+}
+#myblog .post li {
+  list-style-type: circle;
+  margin-left: 2em;
+}
+#myblog .post .img_position {
+  text-align: center;
+}
+#myblog .post blockquote {
+  margin-left: 1.5em;
+  padding-left: 0.5em;
+  font-size: 85%;
+  border-left: 2px solid #eeeeee;
+}
+#myblog #socialbuttons div {
+  float: left;
+}
+
+#more {
+  width: 45%;
+  float: right;
+  margin-right: 17px;
+  color: #333;
+}
+#more h2 {
+  margin: 1.5em auto 1em;
+  border-bottom: 1px solid #fff;
+  font-size: 110%;
+}
+
+#main_box {
+  margin: 50px;
+}
+#main_box p {
+  margin-bottom: 1em;
+}
+#main_box #box-master {
+  width: 60%;
+  float: right;
+  margin-left: 3%;
+  margin-bottom: 100px;
+}
+#main_box #box-slave {
+  width: 30%;
+  float: left;
+  margin-right: 3%;
+  margin-bottom: 100px;
+}
+
+#footer {
+  clear: both;
+  padding: 1.5em;
+  text-align: right;
+  border-top: 7px solid #666;
+  font-size: 80%;
+}
+
+/* シンタックスハイライト */
+.highlight {
+  margin-bottom: 34px;
+  overflow: scroll;
+}
+.highlight pre {
+  boder: 1px solid #aaa;
+  padding: 0.5em;
+}
