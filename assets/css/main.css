@@ -4,7 +4,8 @@ html {
   font: 17px/1.231 arial, helvetica, clean, sans-serif;
   *font-size: small;
   *font: x-small;
-  line-height: normal;
+/*  line-height: normal;*/
+  line-height: 1.8em;
   /*	background: #ccc;*/
   background-color: #2d0f00;
   padding: 0.5em;
@@ -63,6 +64,11 @@ strong {
 em {
   font-weight: bold;
   font-style: normal;
+}
+
+b {
+  border-bottom: 1px dashed #c33;
+  font-weight: normal;
 }
 
 input, textarea, select {
