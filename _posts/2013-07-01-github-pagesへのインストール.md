@@ -3,8 +3,8 @@ layout: post
 title: Jekyll + GitHub Pages
 date: 2013-07-01
 excerpt: Jekyllを使っていて少し不満があったので、GitHub Pagesをマイドメインで使う事にしたので、その忘備録です。
-categories: blog jekyll
-tags: [エンジニアとして]
+categories: Jekyll
+tags: [エンジニアとして, git]
 sumnail: jekyll-logo.png
 ---
 このブログは[Jekyll](http://jekyllrb.com/)で作っています。  
