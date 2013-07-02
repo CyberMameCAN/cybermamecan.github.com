@@ -214,24 +214,33 @@ a:hover {
 }
 
 #myblog {
-  width: 50%;
+  background: rgba(255, 255, 255, 0.7);
+  border: 1px solid #ddd;
   float: left;
   margin-left: 17px;
+  width: 50%;
 }
 #myblog #blog_head {
-  background-color: #eeeeee;
+background: rgb(221,221,221); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(221,221,221,1) 0%, rgba(237,237,237,1) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(221,221,221,1)), color-stop(100%,rgba(237,237,237,1))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  rgba(221,221,221,1) 0%,rgba(237,237,237,1) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  rgba(221,221,221,1) 0%,rgba(237,237,237,1) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  rgba(221,221,221,1) 0%,rgba(237,237,237,1) 100%); /* IE10+ */
+background: linear-gradient(to bottom,  rgba(221,221,221,1) 0%,rgba(237,237,237,1) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dddddd', endColorstr='#ededed',GradientType=0 ); /* IE6-9 */
   color: #333;
-  margin-bottom: 51px;
+/*  margin-bottom: 51px;*/
   padding: 8px;
 }
 #myblog #blog_head h1 {
-  background-color: #fff;
+/*  background-color: #fff;*/
   /*      border-left: 1px solid #da50dc;*/
   /*      border-top: 1px solid #aaa;
         border-bottom: 1px solid #aaa;
         border-right: 1px solid #aaa;*/
-  border-left: 1px solid #339963;
-  padding: 0.3em;
+/*  border-left: 1px solid #339963;*/
+  padding: 0.3em 0;
   margin-bottom: 0.5em;
   font-size: 150%;
 }
@@ -246,11 +255,9 @@ a:hover {
   color: #666666;
 }
 #myblog .post {
-  background: rgba(255, 255, 255, 0.9);
   color: #333;
   /*    background-color: #311100;*/
-  border: 1px solid #6b2d00;
-  border-left: 1px solid #339963;
+/*  border-left: 1px solid #339963;*/
   padding: 17px;
   margin-bottom: 34px;
 }
@@ -290,6 +297,9 @@ a:hover {
   padding-left: 0.5em;
   font-size: 85%;
   border-left: 2px solid #eeeeee;
+}
+#myblog #socialbuttons {
+  padding: 0 1em;
 }
 #myblog #socialbuttons div {
   float: left;
