@@ -6,7 +6,6 @@ html {
   *font: x-small;
 /*  line-height: normal;*/
   line-height: 1.8em;
-  /*	background: #ccc;*/
   background-color: #2d0f00;
   padding: 0.5em;
 }
@@ -34,9 +33,12 @@ body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, pre, code, form, fieldset, le
 table {
   border-collapse: collapse;
   border-spacing: 0;
+  font: 100%;
+  font-size: inherit;
 }
 
-fieldset, img {
+fieldset,
+img {
   border: 0;
 }
 
@@ -54,7 +56,6 @@ caption, th {
 }
 
 h1, h2, h3, h4 {
-  /*font-size: 100%;*/
 }
 
 strong {
@@ -71,7 +72,9 @@ b {
   font-weight: normal;
 }
 
-input, textarea, select {
+input,
+textarea,
+select {
   font-family: inherit;
   font-size: inherit;
   font-weight: inherit;
@@ -81,10 +84,6 @@ legend {
   color: #333;
 }
 
-table {
-  font-size: inherit;
-  font: 100%;
-}
 
 pre, code {
   font-family: monospace;
@@ -134,25 +133,17 @@ a:hover {
   text-decoration: underline;
 }
 
+/* **** グローバル定義 **** */
 #whitebase {
   width: 100%;
-  /*	background-color: #773d3d;*/
-  /*	background-color: #2d0f00;*/
   background-color: #eeeeee;
 }
 
 #header {
   height: 101px;
   width: 100%;
-  /*	background: transparent url(../images/header-bg.jpg) center center repeat-x;*/
   background: transparent url(../images/header-bg-4.png) center center;
   border-bottom: 7px solid #aaa;
-  /* ロゴ */
-  /* グローバルメニュー */
-}
-#header #hgroup {
-  width: 35%;
-  float: left;
 }
 #header #site-logo {
   float: left;
@@ -163,8 +154,7 @@ a:hover {
 #header #main-nav {
   width: 300px;
   float: right;
-  /* 	background: transparent url(../images/g-menu.png) center center no-repeat;*/
-  background-color: #7bb142;
+  background-color: #7bb142;    /* @media max-width: 650px のbg-colorの修正あり */
   border-radius: 6px;
   margin-top: 35px;
   margin-right: 50px;
@@ -221,32 +211,25 @@ a:hover {
   width: 50%;
 }
 #myblog #blog_head {
-background: rgb(221,221,221); /* Old browsers */
-background: -moz-linear-gradient(top,  rgba(221,221,221,1) 0%, rgba(237,237,237,1) 100%); /* FF3.6+ */
-background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(221,221,221,1)), color-stop(100%,rgba(237,237,237,1))); /* Chrome,Safari4+ */
-background: -webkit-linear-gradient(top,  rgba(221,221,221,1) 0%,rgba(237,237,237,1) 100%); /* Chrome10+,Safari5.1+ */
-background: -o-linear-gradient(top,  rgba(221,221,221,1) 0%,rgba(237,237,237,1) 100%); /* Opera 11.10+ */
-background: -ms-linear-gradient(top,  rgba(221,221,221,1) 0%,rgba(237,237,237,1) 100%); /* IE10+ */
-background: linear-gradient(to bottom,  rgba(221,221,221,1) 0%,rgba(237,237,237,1) 100%); /* W3C */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dddddd', endColorstr='#ededed',GradientType=0 ); /* IE6-9 */
+  background: rgb(221,221,221); /* Old browsers */
+  background: -moz-linear-gradient(top,  rgba(221,221,221,1) 0%, rgba(237,237,237,1) 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(221,221,221,1)), color-stop(100%,rgba(237,237,237,1))); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top,  rgba(221,221,221,1) 0%,rgba(237,237,237,1) 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top,  rgba(221,221,221,1) 0%,rgba(237,237,237,1) 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(top,  rgba(221,221,221,1) 0%,rgba(237,237,237,1) 100%); /* IE10+ */
+  background: linear-gradient(to bottom,  rgba(221,221,221,1) 0%,rgba(237,237,237,1) 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dddddd', endColorstr='#ededed',GradientType=0 ); /* IE6-9 */
   color: #333;
 /*  margin-bottom: 51px;*/
   padding: 8px;
 }
 #myblog #blog_head h1 {
-/*  background-color: #fff;*/
-  /*      border-left: 1px solid #da50dc;*/
-  /*      border-top: 1px solid #aaa;
-        border-bottom: 1px solid #aaa;
-        border-right: 1px solid #aaa;*/
-/*  border-left: 1px solid #339963;*/
   padding: 0.3em 0;
   margin-bottom: 0.5em;
   font-size: 150%;
 }
 #myblog #blog_head h1:first-letter {
   font-size: 160%;
-  /*      color: #da50dc;*/
   color: #339963;
 }
 #myblog #blog_head .postdate,
@@ -256,8 +239,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dddddd', end
 }
 #myblog .post {
   color: #333;
-  /*    background-color: #311100;*/
-/*  border-left: 1px solid #339963;*/
   padding: 17px;
   margin-bottom: 34px;
 }
@@ -281,6 +262,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dddddd', end
 #myblog .post img {
   padding: 5px;
   background-color: #fff;
+  border: 1px solid #aaa;
 }
 #myblog .post ul {
   margin-bottom: 1em;
@@ -352,4 +334,88 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dddddd', end
 .highlight pre {
   boder: 1px solid #aaa;
   padding: 0.5em;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+	width: auto\9; /* ie8 */
+}
+
+@media screen and (max-width: 1238px) {
+  #header #main-nav {
+  }
+}
+
+@media screen and (max-width: 980px) {
+  #header #site-logo {
+    margin-left: 0;
+  }
+  #header #main-nav {
+    margin-right: 8px;
+    width: 300px;
+  }
+  #header #main-nav li a {
+    font-size: 12px/1.231;
+  }
+  /* ブログ */
+  #myblog {
+    margin-left: 8px;
+  }
+  #more {
+    margin-right: 8px;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  html {
+    padding: 0;
+  }
+
+  #header #site-logo {
+    margin-left: 0;
+    width: 58%;
+  }
+  #header #main-nav {
+    background-color: transparent;
+    border-radius: 0;
+    margin-right: 0;
+    margin-top: 15px;
+    width: 40%;
+  }
+  #header #main-nav li {
+    background-color: #7bb142;
+    border-bottom: 1px solid #fff;
+    border-radius: 6px;
+    float: none;
+    width: 100%;
+    text-align: center;
+  }
+  /* ブログ */
+  #myblog {
+    clear: both;
+    float: none;
+    margin-bottom: 25px;
+    margin-left: 0;
+    width: auto;
+  }
+  #more {
+    clear: both;
+    float: none;
+    margin-right: 0;
+    padding: 17px;
+    width: auto;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  #header #site-logo {
+    margin-left: 0;
+    width: 65%;
+  }
+  #header #main-nav {
+    width: 30%;
+  }
+  #header #main-nav li a {
+  }
 }
