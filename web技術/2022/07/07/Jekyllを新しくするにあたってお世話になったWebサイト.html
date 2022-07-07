@@ -4,7 +4,7 @@
 <meta charset="UTF-8"/>
 <meta name="Author" content="アスタデザイン" />
 <meta name="robots" content="index,follow" />
-<title>Jekyll + GitHub Pages - いなかもん</title>
+<title>Renew Jekyll, thank you web site - いなかもん</title>
 
 <link rel="stylesheet" href="/assets/css/sanitize.css" type="text/css" />
 <link rel="stylesheet" href="/assets/css/style.css" type="text/css" />
@@ -88,11 +88,11 @@
   <div class="main-contents">
     <div class="myblog">
   <div class="blog_head">
-    <h1>Jekyll + GitHub Pages</h1>
+    <h1>Renew Jekyll, thank you web site</h1>
   
     
     <div class="postdate">
-      投稿日 2013年07月01日
+      投稿日 2022年07月07日
       
     </div>
     
@@ -101,9 +101,7 @@
     <p class="posttags">
     タグ 
     
-      エンジニアとして,
-    
-      git,
+      Jekyll,
     
     </p>
     
@@ -112,53 +110,18 @@
   </div><!-- blog_head -->
   
   <div class="post">
-  <p>このブログは<a href="http://jekyllrb.com/">Jekyll</a>で作っています。<br />
-Markdownでコーディングし、それをテンプレート（Liquid構文）に則って自動でHTMLへ変換してくれます。<br />
-変換して作成されたHTMLやCSSファイル、画像などをWebサーバにアップすれば、面倒な設定も無く公開出来ます。<br />
-簡単にHTMLを生成出来る優れものです。</p>
+  <h1 id="参考にしたサイト">参考にしたサイト</h1>
 
-<h2 id="ちょっとした不満"><span>ちょっとした不満</span></h2>
-<p>ただ一つ、Jekyllに不満があるとしたら、一つファイルを修正する事で全ファイルが再作成される事です。<br />
-FTPソフトはPanic社のTransmitを使ってWebサーバと同期をするようにしてますが、ファイルの作成日が変わってしまうため結局すべてのファイルをアップロードし直しとなってしまいます。</p>
+<p>おかげでGitHub Pagesを新しく公開することが出来ました。</p>
 
-<p>これを解決するにはやっぱり<a href="http://pages.github.com">GitHub Pages</a>を利用するのが一番かな、という結論に至りました。<br />
-GitHub PagesはJekyllで構築されたファイルをGitHubへアップロードすればあっという間に公開できてしまう大変面白いものです。
-もちろん無料なんです。</p>
+<ul>
+  <li><a href="https://github.com/jekyll/jekyll">Jekyll (github)</a></li>
+  <li><a href="https://zenn.dev/daikichidaze/articles/f499df5317335b">Jekyll環境をdocker composeで構築してみた</a></li>
+  <li><a href="https://qiita.com/makoto_kw/items/38c0300cbbaf8d2f2370">JekyllをStep by Stepで使って理解する</a></li>
+  <li><a href="https://qiita.com/mktshhr/items/578cc5b5aea5b3ed9303">Gitのリポジトリ（履歴）を初期化する</a></li>
+</ul>
 
-<p>ちょっと前フリが長かったですが、GitHub Pagesを作ってマイドメインで表示されるところまで忘備録も兼ねて残してみます。</p>
-
-<h2 id="リポジトリ作成"><span>リポジトリ作成</span></h2>
-
-<p><a href="https://github.com">GitHub</a>にアクセスしたら右上の<b>アイコン（create a new repo）</b>をクリックします。</p>
-<p class="img_position"><img src="/assets/images/1.Create-a-new-repo.png" alt="Create a new repo" width="" /></p>
-<p>Repository nameは<b>username.GitHub.com </b>を入力します。<br />
-「username」は作った自分のIDですが、この同じIDで作らないとGitHub PagesにWebサイトとして反映されないようです。</p>
-
-<h2 id="githubへpush"><span>GitHubへpush</span></h2>
-<p>Jekyllのルートに移動して次のコマンドを実行して行けばGitHub Pagesに数分で反映されるようになります。</p>
-
-<figure class="highlight"><pre><code class="language-sh" data-lang="sh"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
-2
-3
-4
-</pre></td><td class="code"><pre><span class="nv">$ </span>git add <span class="nb">.</span>
-<span class="nv">$ </span>git commit <span class="nt">-m</span> <span class="s2">"first commit"</span>
-<span class="nv">$ </span>git remote add origin https://GitHub.com/username/username.github.com.git
-<span class="nv">$ </span>git push <span class="nt">-u</span> origin master
-</pre></td></tr></tbody></table></code></pre></figure>
-
-<h2 id="マイドメインで運用する時"><span>マイドメインで運用する時</span></h2>
-<p>これは<b>サブドメイン</b>の場合です。</p>
-
-<h3 id="ドメインの設定"><span>ドメインの設定</span></h3>
-<p>種別を<em>別名(CNAME)</em>、値を<em>username.github.io.</em>にそれぞれ指定し、githubのサイトを見に行くように設定します。<br />
-（username.github.io.の一番最後にピリオドをお忘れなく。）</p>
-
-<h3 id="jekyllの設定"><span>Jekyllの設定</span></h3>
-<p>JekyllのルートにCNAMEというファイルを作って運用したいURLを記述し、GitHubへpushします。</p>
-
-<p>以上でドメインが浸透すればマイドメインで表示されるようになるはずです。</p>
-
+<p>以上になります</p>
 
   </div>
 
@@ -176,13 +139,13 @@ GitHub PagesはJekyllで構築されたファイルをGitHubへアップロー�
     <h2>Related Posts</h2>
     <ul class="posts">
       
-          <li><span>2022.07.07</span> - <a href="/web%E6%8A%80%E8%A1%93/2022/07/07/Jekyll%E3%82%92%E6%96%B0%E3%81%97%E3%81%8F%E3%81%99%E3%82%8B%E3%81%AB%E3%81%82%E3%81%9F%E3%81%A3%E3%81%A6%E3%81%8A%E4%B8%96%E8%A9%B1%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9FWeb%E3%82%B5%E3%82%A4%E3%83%88.html">Renew Jekyll, thank you web site</a></li>
-      
           <li><span>2022.07.06</span> - <a href="/web%E6%8A%80%E8%A1%93/2022/07/06/Re-Jekyll-start.html">Re Jekyll</a></li>
       
           <li><span>2013.09.30</span> - <a href="/jekyll/2013/09/30/Jekyll-%E3%82%A2%E3%83%83%E3%83%95%E3%82%9A%E3%83%86%E3%82%99%E3%83%BC%E3%83%88.html">Jekyllのアップデート</a></li>
       
           <li><span>2013.07.05</span> - <a href="/jekyll/2013/07/05/%E3%83%AC%E3%82%B9%E3%83%9B%E3%82%9A%E3%83%B3%E3%82%B7%E3%83%95%E3%82%99%E3%82%A6%E3%82%A7%E3%83%95%E3%82%99%E3%83%86%E3%82%99%E3%82%B5%E3%82%99%E3%82%A4%E3%83%B3.html">レスポンシブウェブデザインに対応しました</a></li>
+      
+          <li><span>2013.07.01</span> - <a href="/jekyll/2013/07/01/github-pages%E3%81%B8%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB.html">Jekyll + GitHub Pages</a></li>
       
           <li><span>2013.06.09</span> - <a href="/jekyll/2013/06/09/%E3%82%B7%E3%83%B3%E3%82%BF%E3%83%83%E3%82%AF%E3%82%B9%E3%83%8F%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%88.html">シンタックスハイライト</a></li>
       
@@ -221,7 +184,7 @@ GitHub PagesはJekyllで構築されたファイルをGitHubへアップロー�
     $("#socialbuttons .hatena").socialbutton("hatena", {
       button : "standard",
       url    : "",
-      title  : "Jekyll + GitHub Pages",
+      title  : "Renew Jekyll, thank you web site",
     }).width(70);
   });
 </script>
