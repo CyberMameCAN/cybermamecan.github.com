@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2022-07-07T00:11:53-05:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">いなかもん</title><subtitle></subtitle><entry><title type="html">Re Jekyll</title><link href="http://0.0.0.0:4000/web%E6%8A%80%E8%A1%93/2022/07/06/Re-Jekyll-start.html" rel="alternate" type="text/html" title="Re Jekyll" /><published>2022-07-06T00:00:00-05:00</published><updated>2022-07-06T00:00:00-05:00</updated><id>http://0.0.0.0:4000/web%E6%8A%80%E8%A1%93/2022/07/06/Re-Jekyll-start</id><content type="html" xml:base="http://0.0.0.0:4000/web%E6%8A%80%E8%A1%93/2022/07/06/Re-Jekyll-start.html"><![CDATA[<h1 id="シンjekyll">シンJekyll</h1>
+
+<p>結構、かなり遠ざかっていましたが、再び<strong>Jekyll</strong>に興味が出てきました。</p>
+
+<p>バージョンも4.1.1になってます。以前は1.Xだったと思います。</p>
+
+<ul>
+  <li><a href="http://jekyllrb-ja.github.io/">Jekyll</a></li>
+</ul>
+
+<h2 id="設定等簡単になってますね">設定等簡単になってますね</h2>
+
+<p>以前はrbenvやgemファイルの管理など面倒だったイメージでしたが、最近はDockerで設定できるので簡単になりました。</p>
+
+<p>また更新をしていければと思います。</p>]]></content><author><name></name></author><category term="Web技術" /><category term="Jekyll" /><summary type="html"><![CDATA[Jeykll 再び]]></summary></entry><entry><title type="html">Jekyllのアップデート</title><link href="http://0.0.0.0:4000/jekyll/2013/09/30/Jekyll-%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88.html" rel="alternate" type="text/html" title="Jekyllのアップデート" /><published>2013-09-30T00:00:00-05:00</published><updated>2013-09-30T00:00:00-05:00</updated><id>http://0.0.0.0:4000/jekyll/2013/09/30/Jekyll-%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88</id><content type="html" xml:base="http://0.0.0.0:4000/jekyll/2013/09/30/Jekyll-%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88.html"><![CDATA[<p>このブログをほったらかしにしていたらいつの間にか Jekyll が 1.2.1 にアップデートしていたので、ローカルの環境もアップデートしてみました。</p>
+
+<h2 id="jekyll-をアップデート"><span>jekyll をアップデート</span></h2>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
+</pre></td><td class="code"><pre><span class="err">$</span> <span class="n">bundle</span> <span class="n">update</span>
+</pre></td></tr></tbody></table></code></pre></figure>
+
+<p>以上です。</p>
+
+<h3 id="エラーワーニングが出てます">エラー（ワーニング）が出てます。</h3>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
+</pre></td><td class="code"><pre>Maruku#to_s is deprecated and will be removed or changed <span class="k">in </span>a near-future version of Maruku.
+</pre></td></tr></tbody></table></code></pre></figure>
+
+<p>一応、ブラウザで表示は出来るみたいです。
+原因は時間を取って後ほど調べてみたいと思います。</p>]]></content><author><name></name></author><category term="Jekyll" /><category term="エンジニアとして" /><category term="Mac" /><category term="Jekyllのインストール" /><summary type="html"><![CDATA[ローカル（Mac）のJekyllをアップデートしました。]]></summary></entry><entry><title type="html">レスポンシブウェブデザインに対応しました</title><link href="http://0.0.0.0:4000/jekyll/2013/07/05/%E3%83%AC%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B7%E3%83%96%E3%82%A6%E3%82%A7%E3%83%96%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3.html" rel="alternate" type="text/html" title="レスポンシブウェブデザインに対応しました" /><published>2013-07-05T00:00:00-05:00</published><updated>2013-07-05T00:00:00-05:00</updated><id>http://0.0.0.0:4000/jekyll/2013/07/05/%E3%83%AC%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B7%E3%83%96%E3%82%A6%E3%82%A7%E3%83%96%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3</id><content type="html" xml:base="http://0.0.0.0:4000/jekyll/2013/07/05/%E3%83%AC%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B7%E3%83%96%E3%82%A6%E3%82%A7%E3%83%96%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3.html"><![CDATA[<p>前からやろうやろうと思いながら、なかなか重い腰を上げれずにいましたが、このブログをレスポンシブウェブデザインにしました。</p>
+
+<h2 id="htmlのheadにviewportを追加"><span>HTMLのheadに<em>viewport</em>を追加</span></h2>
+
+<figure class="highlight"><pre><code class="language-html" data-lang="html"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
+</pre></td><td class="code"><pre><span class="nt">&lt;meta</span> <span class="na">name=</span><span class="s">"viewport"</span> <span class="na">content=</span><span class="s">"width=device-width, initial-scale=1.0"</span><span class="nt">&gt;</span>
+</pre></td></tr></tbody></table></code></pre></figure>
+
+<h2 id="cssに画像を引き延ばしたり縮めたりする機能とブラウザの横サイズにより振り分けの処理を追加"><span>CSSに画像を引き延ばしたり縮めたりする機能と、ブラウザの横サイズにより振り分けの処理を追加</span></h2>
+
+<figure class="highlight"><pre><code class="language-css" data-lang="css"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+</pre></td><td class="code"><pre><span class="nt">img</span> <span class="p">{</span>
+	<span class="nl">max-width</span><span class="p">:</span> <span class="m">100%</span><span class="p">;</span>
+	<span class="nl">height</span><span class="p">:</span> <span class="nb">auto</span><span class="p">;</span>
+	<span class="nl">width</span><span class="p">:</span> <span class="nb">auto</span><span class="err">\</span><span class="m">9</span><span class="p">;</span> <span class="c">/* ie8 */</span>
+<span class="p">}</span>
+
+<span class="k">@media</span> <span class="n">screen</span> <span class="n">and</span> <span class="p">(</span><span class="n">max-width</span><span class="p">:</span> <span class="m">1238px</span><span class="p">)</span> <span class="p">{</span>
+<span class="p">}</span>
+
+<span class="k">@media</span> <span class="n">screen</span> <span class="n">and</span> <span class="p">(</span><span class="n">max-width</span><span class="p">:</span> <span class="m">980px</span><span class="p">)</span> <span class="p">{</span>
+<span class="p">}</span>
+
+<span class="k">@media</span> <span class="n">screen</span> <span class="n">and</span> <span class="p">(</span><span class="n">max-width</span><span class="p">:</span> <span class="m">650px</span><span class="p">)</span> <span class="p">{</span>
+<span class="p">}</span>
+
+<span class="k">@media</span> <span class="n">screen</span> <span class="n">and</span> <span class="p">(</span><span class="n">max-width</span><span class="p">:</span> <span class="m">480px</span><span class="p">)</span> <span class="p">{</span>
+<span class="p">}</span>
+</pre></td></tr></tbody></table></code></pre></figure>
+
+<p>こだわれば色々複雑な事が出来るのでしょうが、手っ取り早く済ませたかったので、２時間使って出来る範囲で追加しました。</p>]]></content><author><name></name></author><category term="Jekyll" /><category term="エンジニアとして" /><summary type="html"><![CDATA[レスポンシブウェブデザインに対応しました。]]></summary></entry><entry><title type="html">Jekyll + GitHub Pages</title><link href="http://0.0.0.0:4000/jekyll/2013/07/01/github-pages%E3%81%B8%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB.html" rel="alternate" type="text/html" title="Jekyll + GitHub Pages" /><published>2013-07-01T00:00:00-05:00</published><updated>2013-07-01T00:00:00-05:00</updated><id>http://0.0.0.0:4000/jekyll/2013/07/01/github-pages%E3%81%B8%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB</id><content type="html" xml:base="http://0.0.0.0:4000/jekyll/2013/07/01/github-pages%E3%81%B8%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB.html"><![CDATA[<p>このブログは<a href="http://jekyllrb.com/">Jekyll</a>で作っています。<br />
+Markdownでコーディングし、それをテンプレート（Liquid構文）に則って自動でHTMLへ変換してくれます。<br />
+変換して作成されたHTMLやCSSファイル、画像などをWebサーバにアップすれば、面倒な設定も無く公開出来ます。<br />
+簡単にHTMLを生成出来る優れものです。</p>
+
+<h2 id="ちょっとした不満"><span>ちょっとした不満</span></h2>
+<p>ただ一つ、Jekyllに不満があるとしたら、一つファイルを修正する事で全ファイルが再作成される事です。<br />
+FTPソフトはPanic社のTransmitを使ってWebサーバと同期をするようにしてますが、ファイルの作成日が変わってしまうため結局すべてのファイルをアップロードし直しとなってしまいます。</p>
+
+<p>これを解決するにはやっぱり<a href="http://pages.github.com">GitHub Pages</a>を利用するのが一番かな、という結論に至りました。<br />
+GitHub PagesはJekyllで構築されたファイルをGitHubへアップロードすればあっという間に公開できてしまう大変面白いものです。
+もちろん無料なんです。</p>
+
+<p>ちょっと前フリが長かったですが、GitHub Pagesを作ってマイドメインで表示されるところまで忘備録も兼ねて残してみます。</p>
+
+<h2 id="リポジトリ作成"><span>リポジトリ作成</span></h2>
+
+<p><a href="https://github.com">GitHub</a>にアクセスしたら右上の<b>アイコン（create a new repo）</b>をクリックします。</p>
+<p class="img_position"><img src="/assets/images/1.Create-a-new-repo.png" alt="Create a new repo" width="" /></p>
+<p>Repository nameは<b>username.GitHub.com </b>を入力します。<br />
+「username」は作った自分のIDですが、この同じIDで作らないとGitHub PagesにWebサイトとして反映されないようです。</p>
+
+<h2 id="githubへpush"><span>GitHubへpush</span></h2>
+<p>Jekyllのルートに移動して次のコマンドを実行して行けばGitHub Pagesに数分で反映されるようになります。</p>
+
+<figure class="highlight"><pre><code class="language-sh" data-lang="sh"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
+2
+3
+4
+</pre></td><td class="code"><pre><span class="nv">$ </span>git add <span class="nb">.</span>
+<span class="nv">$ </span>git commit <span class="nt">-m</span> <span class="s2">"first commit"</span>
+<span class="nv">$ </span>git remote add origin https://GitHub.com/username/username.github.com.git
+<span class="nv">$ </span>git push <span class="nt">-u</span> origin master
+</pre></td></tr></tbody></table></code></pre></figure>
+
+<h2 id="マイドメインで運用する時"><span>マイドメインで運用する時</span></h2>
+<p>これは<b>サブドメイン</b>の場合です。</p>
+
+<h3 id="ドメインの設定"><span>ドメインの設定</span></h3>
+<p>種別を<em>別名(CNAME)</em>、値を<em>username.github.io.</em>にそれぞれ指定し、githubのサイトを見に行くように設定します。<br />
+（username.github.io.の一番最後にピリオドをお忘れなく。）</p>
+
+<h3 id="jekyllの設定"><span>Jekyllの設定</span></h3>
+<p>JekyllのルートにCNAMEというファイルを作って運用したいURLを記述し、GitHubへpushします。</p>
+
+<p>以上でドメインが浸透すればマイドメインで表示されるようになるはずです。</p>]]></content><author><name></name></author><category term="Jekyll" /><category term="エンジニアとして" /><category term="git" /><summary type="html"><![CDATA[Jekyllを使っていて少し不満があったので、GitHub Pagesをマイドメインで使う事にしたので、その忘備録です。]]></summary></entry><entry><title type="html">Jekyllを使う理由</title><link href="http://0.0.0.0:4000/jekyll/2013/06/09/Jekyll%E3%82%92%E4%BD%BF%E3%81%86%E7%90%86%E7%94%B1.html" rel="alternate" type="text/html" title="Jekyllを使う理由" /><published>2013-06-09T00:00:00-05:00</published><updated>2013-06-09T00:00:00-05:00</updated><id>http://0.0.0.0:4000/jekyll/2013/06/09/Jekyll%E3%82%92%E4%BD%BF%E3%81%86%E7%90%86%E7%94%B1</id><content type="html" xml:base="http://0.0.0.0:4000/jekyll/2013/06/09/Jekyll%E3%82%92%E4%BD%BF%E3%81%86%E7%90%86%E7%94%B1.html"><![CDATA[<h2 id="jekyll-いい感じ"><span>Jekyll いい感じ</span></h2>
+
+<p class="img_position"><img src="/assets/images/jekyll-site.png" alt="jekyll-site" width="480" /></p>
+
+<p>このブログは<a href="http://jekyllrb.com"><strong>Jekyll</strong></a>を使って作っています。<br />
+シンプルなブログシステムで、スタティックな HTML ファイルを出力します。</p>
+
+<blockquote>
+  <p>Jekyll については<br />
+<a href="http://d.hatena.ne.jp/yuum3/20120620/1340180894">Jekyll は軽快なブログソフトなので乗り換えてみた</a><br />
+こちらに詳しく書かれていますので参考にされてください。</p>
+</blockquote>
+
+<p>Jekyllを選んだ理由ですが、</p>
+
+<ul>
+  <li>WordPress 以外のブログシステムを使ってみたかった</li>
+  <li>Ruby で書かれている</li>
+  <li>github pages に公開できる</li>
+  <li>Markdown が使える</li>
+</ul>
+
+<p>こんな感じの理由で興味が出ました。</p>
+
+<p>インストールは少しめんどくさかったですが（WordPressに比べてね）、
+半日ほどでWebを作り始める事が出来ました。<br />
+このブログは２日程でだいたいの形が出来上がって早速公開したところです。<br />
+（github pages は断念しましたけど(^^;）</p>
+
+<p>生成される Web の素材は <em>HTML + CSS の構成なので表示速度も速い</em>です！</p>
+
+<p>Ruby や github など僕の仕事では滅多に使う事がないのでスキルアップにも役立ちそう。</p>
+
+<p>しばらく使って行きたいと思っています。</p>
+
+<h3 id="参考にさせていただいたサイト">参考にさせていただいたサイト</h3>
+<ul>
+  <li><a href="http://melborne.github.io/2013/05/20/now-the-time-to-start-jekyll/">Jekyllいつやるの？ジキやルの？今でしょ！</a></li>
+  <li><a href="http://qiita.com/items/38c0300cbbaf8d2f2370">JekyllをStep by Stepで使って理解する</a></li>
+</ul>]]></content><author><name></name></author><category term="Jekyll" /><category term="このブログ" /><category term="git" /><summary type="html"><![CDATA[ブログを WordPress から Jekyll に代える人が多いというのも納得する使い心地です。]]></summary></entry><entry><title type="html">シンタックスハイライト</title><link href="http://0.0.0.0:4000/jekyll/2013/06/09/%E3%82%B7%E3%83%B3%E3%82%BF%E3%83%83%E3%82%AF%E3%82%B9%E3%83%8F%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%88.html" rel="alternate" type="text/html" title="シンタックスハイライト" /><published>2013-06-09T00:00:00-05:00</published><updated>2013-06-09T00:00:00-05:00</updated><id>http://0.0.0.0:4000/jekyll/2013/06/09/%E3%82%B7%E3%83%B3%E3%82%BF%E3%83%83%E3%82%AF%E3%82%B9%E3%83%8F%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%88</id><content type="html" xml:base="http://0.0.0.0:4000/jekyll/2013/06/09/%E3%82%B7%E3%83%B3%E3%82%BF%E3%83%83%E3%82%AF%E3%82%B9%E3%83%8F%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%88.html"><![CDATA[<h2 id="コードを追加する時"><span>コードを追加する時</span></h2>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+</pre></td><td class="code"><pre><span class="k">class</span> <span class="nc">Person</span>
+  <span class="k">def</span> <span class="nf">initialize</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+    <span class="vi">@name</span> <span class="o">=</span> <span class="nb">name</span>
+  <span class="k">end</span>
+
+  <span class="k">def</span> <span class="nf">hello</span>
+    <span class="s2">"Hello, friend!</span><span class="se">\n</span><span class="s2">My name is </span><span class="si">#{</span><span class="vi">@name</span><span class="si">}</span><span class="s2">!"</span>
+  <span class="k">end</span>
+<span class="k">end</span>
+
+<span class="n">charlie</span> <span class="o">=</span> <span class="no">Person</span><span class="p">.</span><span class="nf">new</span><span class="p">(</span><span class="s1">'Charlie'</span><span class="p">)</span>
+<span class="nb">puts</span> <span class="n">charlie</span><span class="p">.</span><span class="nf">hello</span>
+
+<span class="c1"># &gt;&gt; Hello, friend!</span>
+<span class="c1"># &gt;&gt; My name is Charlie!</span>
+</pre></td></tr></tbody></table></code></pre></figure>]]></content><author><name></name></author><category term="Jekyll" /><category term="エンジニアとして" /><summary type="html"><![CDATA[シンタックスハイライト機能を追加しました。]]></summary></entry><entry><title type="html">昨日書いた力作？？ 消滅</title><link href="http://0.0.0.0:4000/jekyll/2013/06/08/%E6%98%A8%E6%97%A5%E6%9B%B8%E3%81%84%E3%81%9F%E3%81%AE%E3%82%82%E3%81%AA%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%9F.html" rel="alternate" type="text/html" title="昨日書いた力作？？ 消滅" /><published>2013-06-08T00:00:00-05:00</published><updated>2013-06-08T00:00:00-05:00</updated><id>http://0.0.0.0:4000/jekyll/2013/06/08/%E6%98%A8%E6%97%A5%E6%9B%B8%E3%81%84%E3%81%9F%E3%81%AE%E3%82%82%E3%81%AA%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%9F</id><content type="html" xml:base="http://0.0.0.0:4000/jekyll/2013/06/08/%E6%98%A8%E6%97%A5%E6%9B%B8%E3%81%84%E3%81%9F%E3%81%AE%E3%82%82%E3%81%AA%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%9F.html"><![CDATA[<h2 id="git-のコマンドを適当に打つのは危険だと分かった"><span>git のコマンドを適当に打つのは危険だと分かった</span></h2>
+
+<p class="img_position"><img src="/assets/images/jekyll-site.png" alt="jekyll-site" width="480" /></p>
+
+<p><strong>git clean -fdx には気をつけろ！</strong></p>
+
+<p>バックアップをとっていなかったため悲しい結果が待っていました・・・。</p>]]></content><author><name></name></author><category term="Jekyll" /><category term="残念" /><category term="git" /><summary type="html"><![CDATA[残念ながら昨日書いたブログが消滅。]]></summary></entry><entry><title type="html">ホタルの季節ですね</title><link href="http://0.0.0.0:4000/%E5%87%BA%E6%B0%B4%E5%B8%82%E3%81%93%E3%81%AE%E8%BE%BA/2013/06/07/%E3%83%9B%E3%82%BF%E3%83%AB%E3%81%AE%E5%AD%A3%E7%AF%80%E3%81%A7%E3%81%99%E3%81%AD.html" rel="alternate" type="text/html" title="ホタルの季節ですね" /><published>2013-06-07T00:00:00-05:00</published><updated>2013-06-07T00:00:00-05:00</updated><id>http://0.0.0.0:4000/%E5%87%BA%E6%B0%B4%E5%B8%82%E3%81%93%E3%81%AE%E8%BE%BA/2013/06/07/%E3%83%9B%E3%82%BF%E3%83%AB%E3%81%AE%E5%AD%A3%E7%AF%80%E3%81%A7%E3%81%99%E3%81%AD</id><content type="html" xml:base="http://0.0.0.0:4000/%E5%87%BA%E6%B0%B4%E5%B8%82%E3%81%93%E3%81%AE%E8%BE%BA/2013/06/07/%E3%83%9B%E3%82%BF%E3%83%AB%E3%81%AE%E5%AD%A3%E7%AF%80%E3%81%A7%E3%81%99%E3%81%AD.html"><![CDATA[<h2 id="ホタルが写っています"><span>ホタルが写っています</span></h2>
+
+<p class="img_position"><img src="/assets/images/hotaru.jpg" alt="ホタルが飛んでる様子" width="480" /></p>
+
+<p>世間では</p>
+
+<p>梅雨入りとか、</p>
+
+<p>空梅雨だとか、</p>
+
+<p>言われますが、ホタルも見れる季節になりましたね。</p>
+
+<p>心が和みます。</p>]]></content><author><name></name></author><category term="出水市この辺" /><category term="写真" /><summary type="html"><![CDATA[ホタルを見てると心が和みますよね。]]></summary></entry></feed>

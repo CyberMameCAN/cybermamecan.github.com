@@ -1,0 +1,39 @@
+@charset "UTF-8";
+body { background: #666; }
+
+/* リンク */
+a { color: #339963; }
+
+a:link { color: #339963; text-decoration: none; }
+
+a:visited { color: #339963; text-decoration: none; }
+
+a:active { color: #339963; text-decoration: none; }
+
+a:hover { color: #339963; text-decoration: underline; }
+
+strong { color: #6abee5; }
+
+em { font-weight: bold; font-style: normal; }
+
+.img_position { text-align: center; }
+
+#whitebase { color: #eee; display: -webkit-flex; display: flex; }
+
+#header #site-logo { text-align: center; }
+
+#header #main-nav { font-size: 18px; padding-left: 1rem; list-style-type: square; margin-left: 1rem; }
+
+.side-part { background-color: #333; max-width: 300px; margin-right: 1rem; }
+
+.post-menu-box { padding-left: 1rem; margin-bottom: 1rem; }
+
+.post-menu-box ul { list-style-type: decimal; margin-left: 0; padding-left: 1rem; }
+
+.main-contents { background-color: #444; padding-left: 1rem; max-width: 900px; line-height: 1.66rem; width: 100%; }
+
+.highlight { background-color: rgba(255, 255, 255, 0.1); }
+
+.gutter { padding-left: 0.25rem; padding-right: 0.25rem; background-color: rgba(255, 255, 255, 0.1); }
+
+/*# sourceMappingURL=style.css.map */
