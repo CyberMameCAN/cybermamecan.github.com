@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2022-07-07T20:32:27-05:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">田舎住み＠CyberMameCANのWeb履歴</title><subtitle></subtitle><entry><title type="html">Renew Jekyll, thank you web site</title><link href="http://0.0.0.0:4000/web%E6%8A%80%E8%A1%93/2022/07/07/Jekyll%E3%82%92%E6%96%B0%E3%81%97%E3%81%8F%E3%81%99%E3%82%8B%E3%81%AB%E3%81%82%E3%81%9F%E3%81%A3%E3%81%A6%E3%81%8A%E4%B8%96%E8%A9%B1%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9FWeb%E3%82%B5%E3%82%A4%E3%83%88.html" rel="alternate" type="text/html" title="Renew Jekyll, thank you web site" /><published>2022-07-07T00:00:00-05:00</published><updated>2022-07-07T00:00:00-05:00</updated><id>http://0.0.0.0:4000/web%E6%8A%80%E8%A1%93/2022/07/07/Jekyll%E3%82%92%E6%96%B0%E3%81%97%E3%81%8F%E3%81%99%E3%82%8B%E3%81%AB%E3%81%82%E3%81%9F%E3%81%A3%E3%81%A6%E3%81%8A%E4%B8%96%E8%A9%B1%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9FWeb%E3%82%B5%E3%82%A4%E3%83%88</id><content type="html" xml:base="http://0.0.0.0:4000/web%E6%8A%80%E8%A1%93/2022/07/07/Jekyll%E3%82%92%E6%96%B0%E3%81%97%E3%81%8F%E3%81%99%E3%82%8B%E3%81%AB%E3%81%82%E3%81%9F%E3%81%A3%E3%81%A6%E3%81%8A%E4%B8%96%E8%A9%B1%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9FWeb%E3%82%B5%E3%82%A4%E3%83%88.html"><![CDATA[<h1 id="参考にしたサイト">参考にしたサイト</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2022-07-07T21:16:35-05:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">田舎住み＠CyberMameCANのWeb履歴</title><subtitle></subtitle><entry><title type="html">Renew Jekyll, thank you web site</title><link href="http://0.0.0.0:4000/web%E6%8A%80%E8%A1%93/2022/07/07/Jekyll%E3%82%92%E6%96%B0%E3%81%97%E3%81%8F%E3%81%99%E3%82%8B%E3%81%AB%E3%81%82%E3%81%9F%E3%81%A3%E3%81%A6%E3%81%8A%E4%B8%96%E8%A9%B1%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9FWeb%E3%82%B5%E3%82%A4%E3%83%88.html" rel="alternate" type="text/html" title="Renew Jekyll, thank you web site" /><published>2022-07-07T00:00:00-05:00</published><updated>2022-07-07T00:00:00-05:00</updated><id>http://0.0.0.0:4000/web%E6%8A%80%E8%A1%93/2022/07/07/Jekyll%E3%82%92%E6%96%B0%E3%81%97%E3%81%8F%E3%81%99%E3%82%8B%E3%81%AB%E3%81%82%E3%81%9F%E3%81%A3%E3%81%A6%E3%81%8A%E4%B8%96%E8%A9%B1%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9FWeb%E3%82%B5%E3%82%A4%E3%83%88</id><content type="html" xml:base="http://0.0.0.0:4000/web%E6%8A%80%E8%A1%93/2022/07/07/Jekyll%E3%82%92%E6%96%B0%E3%81%97%E3%81%8F%E3%81%99%E3%82%8B%E3%81%AB%E3%81%82%E3%81%9F%E3%81%A3%E3%81%A6%E3%81%8A%E4%B8%96%E8%A9%B1%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9FWeb%E3%82%B5%E3%82%A4%E3%83%88.html"><![CDATA[<h1 id="参考にしたサイト">参考にしたサイト</h1>
 
 <p>おかげでGitHub Pagesを新しく公開することが出来ました。</p>
 
@@ -13,21 +13,22 @@
 
 <p>結構、かなり遠ざかっていましたが、再び<strong>Jekyll</strong>に興味が出てきました。</p>
 
-<p>バージョンも4.1.1になってます。以前は1.Xだったと思います。</p>
+<p>バージョンも4.1.1になってました。2013年ごろに一度触っていましたが、その時は1.Xだったと思います。</p>
 
 <ul>
-  <li><a href="http://jekyllrb-ja.github.io/">Jekyll</a></li>
+  <li><a href="https://jekyllrb-ja.github.io/">Jekyll</a></li>
 </ul>
 
 <h2 id="設定等簡単になってますね">設定等簡単になってますね</h2>
 
-<p>以前はrbenvやgemファイルの管理など面倒だったイメージでしたが、今回はDockerで設定したので、かなり簡単になりました。</p>
+<p>以前はrbenvやgemファイルの管理など少々面倒だったイメージでしたが、今回はDockerで設定したので、かなり簡単になりました。</p>
 
-<p>またページは、都度つど更新をしていければと思います。</p>
+<p>またこのサイトは、都度つど更新をしていければと思います。</p>
 
 <h2 id="静的サイトを作る時にも使える">静的サイトを作る時にも使える</h2>
 
-<p>静的サイトを作るときも、良い感じに使えそうです。</p>]]></content><author><name></name></author><category term="Web技術" /><category term="Jekyll" /><summary type="html"><![CDATA[Jeykll 再び]]></summary></entry><entry><title type="html">Jekyllのアップデート</title><link href="http://0.0.0.0:4000/jekyll/2013/09/30/Jekyll-%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88.html" rel="alternate" type="text/html" title="Jekyllのアップデート" /><published>2013-09-30T00:00:00-05:00</published><updated>2013-09-30T00:00:00-05:00</updated><id>http://0.0.0.0:4000/jekyll/2013/09/30/Jekyll-%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88</id><content type="html" xml:base="http://0.0.0.0:4000/jekyll/2013/09/30/Jekyll-%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88.html"><![CDATA[<p>このブログをほったらかしにしていたらいつの間にか Jekyll が 1.2.1 にアップデートしていたので、ローカルの環境もアップデートしてみました。</p>
+<p>静的サイトを作るときも、良い感じに使えそうです。<br />
+scssが使えたり、テンプレートが使えたり。開発が楽になりそうです。</p>]]></content><author><name></name></author><category term="Web技術" /><category term="Jekyll" /><category term="Ruby" /><summary type="html"><![CDATA[Jeykll 再び]]></summary></entry><entry><title type="html">Jekyllのアップデート</title><link href="http://0.0.0.0:4000/jekyll/2013/09/30/Jekyll-%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88.html" rel="alternate" type="text/html" title="Jekyllのアップデート" /><published>2013-09-30T00:00:00-05:00</published><updated>2013-09-30T00:00:00-05:00</updated><id>http://0.0.0.0:4000/jekyll/2013/09/30/Jekyll-%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88</id><content type="html" xml:base="http://0.0.0.0:4000/jekyll/2013/09/30/Jekyll-%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88.html"><![CDATA[<p>このブログをほったらかしにしていたらいつの間にか Jekyll が 1.2.1 にアップデートしていたので、ローカルの環境もアップデートしてみました。</p>
 
 <h2 id="jekyll-をアップデート"><span>jekyll をアップデート</span></h2>
 
