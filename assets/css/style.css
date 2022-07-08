@@ -36,4 +36,6 @@ em { font-weight: bold; font-style: normal; }
 
 .gutter { padding-left: 0.25rem; padding-right: 0.25rem; background-color: rgba(255, 255, 255, 0.1); }
 
+.post { border-top: 1px dashed #666; }
+
 /*# sourceMappingURL=style.css.map */
