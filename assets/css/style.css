@@ -12,6 +12,8 @@ a:active { color: #339963; text-decoration: none; }
 
 a:hover { color: #339963; text-decoration: underline; }
 
+h1 { color: #6abee5; }
+
 strong { color: #6abee5; }
 
 em { font-weight: bold; font-style: normal; }
@@ -30,7 +32,7 @@ em { font-weight: bold; font-style: normal; }
 
 .post-menu-box ul { list-style-type: decimal; margin-left: 0; padding-left: 1rem; }
 
-.main-contents { background-color: #444; padding-left: 1rem; max-width: 900px; line-height: 1.66rem; width: 100%; }
+.main-contents { background-color: #444; padding-left: 1rem; padding-right: 1rem; max-width: 900px; line-height: 1.66rem; width: 100%; }
 
 .highlight { background-color: rgba(255, 255, 255, 0.1); }
 
