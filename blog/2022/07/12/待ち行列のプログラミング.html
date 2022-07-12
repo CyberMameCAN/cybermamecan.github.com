@@ -4,7 +4,7 @@
 <meta charset="UTF-8"/>
 <meta name="Author" content="t-to48" />
 <meta name="robots" content="index,follow" />
-<title>Renew Jekyll. thank you web site - 田舎住み＠CyberMameCANのWeb履歴</title>
+<title>待ち行列のプログラミング - 田舎住み＠CyberMameCANのWeb履歴</title>
 
 <link rel="stylesheet" href="/assets/css/sanitize.css" type="text/css" />
 <link rel="stylesheet" href="/assets/css/style.css" type="text/css" />
@@ -96,11 +96,11 @@
   <div class="main-contents">
     <div class="myblog">
   <div class="blog_head">
-    <h1>Renew Jekyll. thank you web site</h1>
+    <h1>待ち行列のプログラミング</h1>
   
     
     <div class="postdate">
-      投稿日 2022年07月07日
+      投稿日 2022年07月12日
       
     </div>
     
@@ -109,7 +109,9 @@
     <p class="posttags">
     タグ 
     
-      Jekyll,
+      プログラミング,
+    
+      Golang,
     
     </p>
     
@@ -118,16 +120,23 @@
   </div><!-- blog_head -->
   
   <div class="post">
-  <h2 id="参考にしたサイト">参考にしたサイト</h2>
+  <h2 id="待ち行列を勉強してwebアプリとして答えを出すプログラミング">待ち行列を勉強して、Webアプリとして答えを出すプログラミング</h2>
 
-<p>おかげでGitHub Pagesを新しく公開することが出来ました。</p>
+<p>統計検定2級の勉強つながりで、<strong>待ち行列</strong>を勉強したので、これを求めるWebアプリを作ってみました。</p>
+
+<h3 id="使用技術">使用技術</h3>
 
 <ul>
-  <li><a href="https://github.com/jekyll/jekyll">Jekyll (github)</a></li>
-  <li><a href="https://zenn.dev/daikichidaze/articles/f499df5317335b">Jekyll環境をdocker composeで構築してみた</a></li>
-  <li><a href="https://qiita.com/makoto_kw/items/38c0300cbbaf8d2f2370">JekyllをStep by Stepで使って理解する</a></li>
-  <li><a href="https://qiita.com/mktshhr/items/578cc5b5aea5b3ed9303">Gitのリポジトリ（履歴）を初期化する</a></li>
+  <li>Golang, Gin</li>
+  <li>Docker</li>
+  <li>uikit</li>
 </ul>
+
+<p>Golang(Gin)を使ってバックエンド部を作りました。<br />
+デザインはuikitを使わせていただきました。<br />
+Dockerで開発と公開用のWebサーバの環境を整えました。</p>
+
+<p class="img_position"><img src="/assets/images/queueing-theory.png" alt="待ち行列を求める用のWebアプリ" width="480" /></p>
 
 <p>以上になります</p>
 
@@ -147,9 +156,9 @@
     <h2>Related Posts</h2>
     <ul class="posts">
       
-          <li><span>2022.07.12</span> - <a href="/blog/2022/07/12/%E5%BE%85%E3%81%A1%E8%A1%8C%E5%88%97%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0.html">待ち行列のプログラミング</a></li>
-      
           <li><span>2022.07.10</span> - <a href="/blog/2022/07/10/%E4%BB%8A%E6%97%A5%E3%81%AF%E9%87%A3%E3%82%8A%E3%81%A8%E7%AB%B6%E9%A6%AC.html">Horse race and Kayak fishing</a></li>
+      
+          <li><span>2022.07.07</span> - <a href="/web%E6%8A%80%E8%A1%93/2022/07/07/Jekyll%E3%82%92%E6%96%B0%E3%81%97%E3%81%8F%E3%81%99%E3%82%8B%E3%81%AB%E3%81%82%E3%81%9F%E3%81%A3%E3%81%A6%E3%81%8A%E4%B8%96%E8%A9%B1%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9FWeb%E3%82%B5%E3%82%A4%E3%83%88.html">Renew Jekyll. thank you web site</a></li>
       
           <li><span>2022.07.06</span> - <a href="/web%E6%8A%80%E8%A1%93/2022/07/06/Re-Jekyll-start.html">Re Jekyll</a></li>
       
@@ -192,7 +201,7 @@
     $("#socialbuttons .hatena").socialbutton("hatena", {
       button : "standard",
       url    : "",
-      title  : "Renew Jekyll. thank you web site",
+      title  : "待ち行列のプログラミング",
     }).width(70);
   });
 </script>

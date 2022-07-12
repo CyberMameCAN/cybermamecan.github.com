@@ -1,4 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2022-07-10T19:47:37-05:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">田舎住み＠CyberMameCANのWeb履歴</title><subtitle>Web履歴と活動メーター</subtitle><entry><title type="html">Horse race and Kayak fishing</title><link href="http://0.0.0.0:4000/blog/2022/07/10/%E4%BB%8A%E6%97%A5%E3%81%AF%E9%87%A3%E3%82%8A%E3%81%A8%E7%AB%B6%E9%A6%AC.html" rel="alternate" type="text/html" title="Horse race and Kayak fishing" /><published>2022-07-10T00:00:00-05:00</published><updated>2022-07-10T00:00:00-05:00</updated><id>http://0.0.0.0:4000/blog/2022/07/10/%E4%BB%8A%E6%97%A5%E3%81%AF%E9%87%A3%E3%82%8A%E3%81%A8%E7%AB%B6%E9%A6%AC</id><content type="html" xml:base="http://0.0.0.0:4000/blog/2022/07/10/%E4%BB%8A%E6%97%A5%E3%81%AF%E9%87%A3%E3%82%8A%E3%81%A8%E7%AB%B6%E9%A6%AC.html"><![CDATA[<h2 id="長島でカヤックフィッシングしてきました">長島でカヤックフィッシングしてきました</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2022-07-12T09:17:29-05:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">田舎住み＠CyberMameCANのWeb履歴</title><subtitle>Web履歴と活動メーター</subtitle><entry><title type="html">待ち行列のプログラミング</title><link href="http://0.0.0.0:4000/blog/2022/07/12/%E5%BE%85%E3%81%A1%E8%A1%8C%E5%88%97%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0.html" rel="alternate" type="text/html" title="待ち行列のプログラミング" /><published>2022-07-12T00:00:00-05:00</published><updated>2022-07-12T00:00:00-05:00</updated><id>http://0.0.0.0:4000/blog/2022/07/12/%E5%BE%85%E3%81%A1%E8%A1%8C%E5%88%97%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0</id><content type="html" xml:base="http://0.0.0.0:4000/blog/2022/07/12/%E5%BE%85%E3%81%A1%E8%A1%8C%E5%88%97%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0.html"><![CDATA[<h2 id="待ち行列を勉強してwebアプリとして答えを出すプログラミング">待ち行列を勉強して、Webアプリとして答えを出すプログラミング</h2>
+
+<p>統計検定2級の勉強つながりで、<strong>待ち行列</strong>を勉強したので、これを求めるWebアプリを作ってみました。</p>
+
+<h3 id="使用技術">使用技術</h3>
+
+<ul>
+  <li>Golang, Gin</li>
+  <li>Docker</li>
+  <li>uikit</li>
+</ul>
+
+<p>Golang(Gin)を使ってバックエンド部を作りました。<br />
+デザインはuikitを使わせていただきました。<br />
+Dockerで開発と公開用のWebサーバの環境を整えました。</p>
+
+<p class="img_position"><img src="/assets/images/queueing-theory.png" alt="待ち行列を求める用のWebアプリ" width="480" /></p>
+
+<p>以上になります</p>]]></content><author><name></name></author><category term="blog" /><category term="プログラミング" /><category term="Golang" /><summary type="html"><![CDATA[待ち行列を勉強して、Webアプリとして答えを出すプログラミング]]></summary></entry><entry><title type="html">Horse race and Kayak fishing</title><link href="http://0.0.0.0:4000/blog/2022/07/10/%E4%BB%8A%E6%97%A5%E3%81%AF%E9%87%A3%E3%82%8A%E3%81%A8%E7%AB%B6%E9%A6%AC.html" rel="alternate" type="text/html" title="Horse race and Kayak fishing" /><published>2022-07-10T00:00:00-05:00</published><updated>2022-07-10T00:00:00-05:00</updated><id>http://0.0.0.0:4000/blog/2022/07/10/%E4%BB%8A%E6%97%A5%E3%81%AF%E9%87%A3%E3%82%8A%E3%81%A8%E7%AB%B6%E9%A6%AC</id><content type="html" xml:base="http://0.0.0.0:4000/blog/2022/07/10/%E4%BB%8A%E6%97%A5%E3%81%AF%E9%87%A3%E3%82%8A%E3%81%A8%E7%AB%B6%E9%A6%AC.html"><![CDATA[<h2 id="長島でカヤックフィッシングしてきました">長島でカヤックフィッシングしてきました</h2>
 
 <p>釣果はオオモンハタとガラカブ</p>
 
@@ -228,16 +246,4 @@ GitHub PagesはJekyllで構築されたファイルをGitHubへアップロー�
 
 <p><strong>git clean -fdx には気をつけろ！</strong></p>
 
-<p>バックアップをとっていなかったため悲しい結果が待っていました・・・。</p>]]></content><author><name></name></author><category term="Jekyll" /><category term="残念" /><category term="git" /><summary type="html"><![CDATA[残念ながら昨日書いたブログが消滅。]]></summary></entry><entry><title type="html">ホタルの季節ですね</title><link href="http://0.0.0.0:4000/%E5%87%BA%E6%B0%B4%E5%B8%82%E3%81%93%E3%81%AE%E8%BE%BA/2013/06/07/%E3%83%9B%E3%82%BF%E3%83%AB%E3%81%AE%E5%AD%A3%E7%AF%80%E3%81%A7%E3%81%99%E3%81%AD.html" rel="alternate" type="text/html" title="ホタルの季節ですね" /><published>2013-06-07T00:00:00-05:00</published><updated>2013-06-07T00:00:00-05:00</updated><id>http://0.0.0.0:4000/%E5%87%BA%E6%B0%B4%E5%B8%82%E3%81%93%E3%81%AE%E8%BE%BA/2013/06/07/%E3%83%9B%E3%82%BF%E3%83%AB%E3%81%AE%E5%AD%A3%E7%AF%80%E3%81%A7%E3%81%99%E3%81%AD</id><content type="html" xml:base="http://0.0.0.0:4000/%E5%87%BA%E6%B0%B4%E5%B8%82%E3%81%93%E3%81%AE%E8%BE%BA/2013/06/07/%E3%83%9B%E3%82%BF%E3%83%AB%E3%81%AE%E5%AD%A3%E7%AF%80%E3%81%A7%E3%81%99%E3%81%AD.html"><![CDATA[<h2 id="ホタルが写っています"><span>ホタルが写っています</span></h2>
-
-<p class="img_position"><img src="/assets/images/hotaru.jpg" alt="ホタルが飛んでる様子" width="480" /></p>
-
-<p>世間では</p>
-
-<p>梅雨入りとか、</p>
-
-<p>空梅雨だとか、</p>
-
-<p>言われますが、ホタルも見れる季節になりましたね。</p>
-
-<p>心が和みます。</p>]]></content><author><name></name></author><category term="出水市この辺" /><category term="写真" /><summary type="html"><![CDATA[ホタルを見てると心が和みますよね。]]></summary></entry></feed>
+<p>バックアップをとっていなかったため悲しい結果が待っていました・・・。</p>]]></content><author><name></name></author><category term="Jekyll" /><category term="残念" /><category term="git" /><summary type="html"><![CDATA[残念ながら昨日書いたブログが消滅。]]></summary></entry></feed>
