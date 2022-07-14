@@ -4,7 +4,7 @@
 <meta charset="UTF-8"/>
 <meta name="Author" content="t-to48" />
 <meta name="robots" content="index,follow" />
-<title>シンタックスハイライト - 田舎住み＠CyberMameCANのWeb履歴</title>
+<title>タイドグラフをPythonで作成 - 田舎住み＠CyberMameCANのWeb履歴</title>
 
 <link rel="stylesheet" href="/assets/css/sanitize.css" type="text/css" />
 <link rel="stylesheet" href="/assets/css/style.css" type="text/css" />
@@ -100,11 +100,11 @@
   <div class="main-contents">
     <div class="myblog">
   <div class="blog_head">
-    <h1>シンタックスハイライト</h1>
+    <h1>タイドグラフをPythonで作成</h1>
   
     
     <div class="postdate">
-      投稿日 2013年06月09日
+      投稿日 2022年07月14日
       
     </div>
     
@@ -113,7 +113,9 @@
     <p class="posttags">
     タグ 
     
-      エンジニアとして,
+      Python,
+    
+      釣り,
     
     </p>
     
@@ -122,39 +124,17 @@
   </div><!-- blog_head -->
   
   <div class="post">
-  <h2 id="コードを追加する時"><span>コードを追加する時</span></h2>
+  <h2 id="a-story-about-creating-a-tide-graph-in-python">A story about creating a tide graph in Python.</h2>
 
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-</pre></td><td class="code"><pre><span class="k">class</span> <span class="nc">Person</span>
-  <span class="k">def</span> <span class="nf">initialize</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-    <span class="vi">@name</span> <span class="o">=</span> <span class="nb">name</span>
-  <span class="k">end</span>
+<p>この手のタイドグラフは以前にRubyで作っていたのですが、今回、Pythonで作り直してみました。<br />
+データは<a href="https://www.data.jma.go.jp/kaiyou/db/tide/suisan/index.php">気象庁の潮位表データ</a>からです。</p>
 
-  <span class="k">def</span> <span class="nf">hello</span>
-    <span class="s2">"Hello, friend!</span><span class="se">\n</span><span class="s2">My name is </span><span class="si">#{</span><span class="vi">@name</span><span class="si">}</span><span class="s2">!"</span>
-  <span class="k">end</span>
-<span class="k">end</span>
+<p>カヤックフィッシングを良くするのですが、どんな潮位で、どんな釣果だったかなどの参考にしたいと思ってます。</p>
 
-<span class="n">charlie</span> <span class="o">=</span> <span class="no">Person</span><span class="p">.</span><span class="nf">new</span><span class="p">(</span><span class="s1">'Charlie'</span><span class="p">)</span>
-<span class="nb">puts</span> <span class="n">charlie</span><span class="p">.</span><span class="nf">hello</span>
+<p>ソースは<a href="https://github.com/CyberMameCAN/musical-computing-machine">Github</a>に上げてみました。<br />
+<strong>TideGruff.ipynb</strong>というファイル名でJupyterファイルです。</p>
 
-<span class="c1"># &gt;&gt; Hello, friend!</span>
-<span class="c1"># &gt;&gt; My name is Charlie!</span>
-</pre></td></tr></tbody></table></code></pre></figure>
+<p class="img_position"><img src="/assets/images/tide-gruff-sample.png" alt="タイドグラフを求めるサンプル" width="480" /></p>
 
 
   </div>
@@ -173,8 +153,6 @@
     <h2>Related Posts</h2>
     <ul class="posts">
       
-          <li><span>2022.07.14</span> - <a href="/blog/web%E6%8A%80%E8%A1%93/2022/07/14/%E3%82%BF%E3%82%A4%E3%83%89%E3%82%B0%E3%83%A9%E3%83%95%E3%82%92Python%E3%81%A7%E4%BD%9C%E6%88%90.html">タイドグラフをPythonで作成</a></li>
-      
           <li><span>2022.07.12</span> - <a href="/blog/2022/07/12/%E5%BE%85%E3%81%A1%E8%A1%8C%E5%88%97%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0.html">待ち行列のプログラミング</a></li>
       
           <li><span>2022.07.10</span> - <a href="/blog/2022/07/10/%E4%BB%8A%E6%97%A5%E3%81%AF%E9%87%A3%E3%82%8A%E3%81%A8%E7%AB%B6%E9%A6%AC.html">Horse race and Kayak fishing</a></li>
@@ -188,6 +166,8 @@
           <li><span>2013.07.05</span> - <a href="/jekyll/2013/07/05/%E3%83%AC%E3%82%B9%E3%83%9B%E3%82%9A%E3%83%B3%E3%82%B7%E3%83%95%E3%82%99%E3%82%A6%E3%82%A7%E3%83%95%E3%82%99%E3%83%86%E3%82%99%E3%82%B5%E3%82%99%E3%82%A4%E3%83%B3.html">レスポンシブウェブデザインに対応しました</a></li>
       
           <li><span>2013.07.01</span> - <a href="/jekyll/2013/07/01/github-pages%E3%81%B8%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB.html">Jekyll + GitHub Pages</a></li>
+      
+          <li><span>2013.06.09</span> - <a href="/jekyll/2013/06/09/%E3%82%B7%E3%83%B3%E3%82%BF%E3%83%83%E3%82%AF%E3%82%B9%E3%83%8F%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%88.html">シンタックスハイライト</a></li>
       
     </ul>
   </div>
@@ -218,7 +198,7 @@
     $("#socialbuttons .hatena").socialbutton("hatena", {
       button : "standard",
       url    : "",
-      title  : "シンタックスハイライト",
+      title  : "タイドグラフをPythonで作成",
     }).width(70);
   });
 </script>
