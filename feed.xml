@@ -1,4 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2022-07-14T07:39:36-05:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">田舎住み＠CyberMameCANのWeb履歴</title><subtitle>Web履歴と活動メーター</subtitle><entry><title type="html">待ち行列のプログラミング</title><link href="http://0.0.0.0:4000/blog/2022/07/12/%E5%BE%85%E3%81%A1%E8%A1%8C%E5%88%97%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0.html" rel="alternate" type="text/html" title="待ち行列のプログラミング" /><published>2022-07-12T00:00:00-05:00</published><updated>2022-07-12T00:00:00-05:00</updated><id>http://0.0.0.0:4000/blog/2022/07/12/%E5%BE%85%E3%81%A1%E8%A1%8C%E5%88%97%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0</id><content type="html" xml:base="http://0.0.0.0:4000/blog/2022/07/12/%E5%BE%85%E3%81%A1%E8%A1%8C%E5%88%97%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0.html"><![CDATA[<h2 id="待ち行列を勉強してwebアプリとして答えを出すプログラミング">待ち行列を勉強して、Webアプリとして答えを出すプログラミング</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2022-07-14T07:54:45-05:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">田舎住み＠CyberMameCANのWeb履歴</title><subtitle>Web履歴と活動メーター</subtitle><entry><title type="html">タイドグラフをPythonで作成</title><link href="http://0.0.0.0:4000/blog/web%E6%8A%80%E8%A1%93/2022/07/14/%E3%82%BF%E3%82%A4%E3%83%89%E3%82%B0%E3%83%A9%E3%83%95%E3%82%92Python%E3%81%A7%E4%BD%9C%E6%88%90.html" rel="alternate" type="text/html" title="タイドグラフをPythonで作成" /><published>2022-07-14T00:00:00-05:00</published><updated>2022-07-14T00:00:00-05:00</updated><id>http://0.0.0.0:4000/blog/web%E6%8A%80%E8%A1%93/2022/07/14/%E3%82%BF%E3%82%A4%E3%83%89%E3%82%B0%E3%83%A9%E3%83%95%E3%82%92Python%E3%81%A7%E4%BD%9C%E6%88%90</id><content type="html" xml:base="http://0.0.0.0:4000/blog/web%E6%8A%80%E8%A1%93/2022/07/14/%E3%82%BF%E3%82%A4%E3%83%89%E3%82%B0%E3%83%A9%E3%83%95%E3%82%92Python%E3%81%A7%E4%BD%9C%E6%88%90.html"><![CDATA[<h2 id="a-story-about-creating-a-tide-graph-in-python">A story about creating a tide graph in Python.</h2>
+
+<p>この手のタイドグラフは以前にRubyで作っていたのですが、今回、Pythonで作り直してみました。<br />
+データは<a href="https://www.data.jma.go.jp/kaiyou/db/tide/suisan/index.php">気象庁の潮位表データ</a>からです。</p>
+
+<p>カヤックフィッシングを良くするのですが、どんな潮位で、どんな釣果だったかなどの参考にしたいと思ってます。</p>
+
+<p>ソースは<a href="https://github.com/CyberMameCAN/musical-computing-machine">Github</a>に上げてみました。<br />
+<strong>TideGruff.ipynb</strong>というファイル名でJupyterファイルです。</p>
+
+<p class="img_position"><img src="/assets/images/tide-gruff-sample.png" alt="タイドグラフを求めるサンプル" width="480" /></p>]]></content><author><name></name></author><category term="blog" /><category term="Web技術" /><category term="Python" /><category term="釣り" /><summary type="html"><![CDATA[A story about creating a tide graph in Python.]]></summary></entry><entry><title type="html">待ち行列のプログラミング</title><link href="http://0.0.0.0:4000/blog/2022/07/12/%E5%BE%85%E3%81%A1%E8%A1%8C%E5%88%97%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0.html" rel="alternate" type="text/html" title="待ち行列のプログラミング" /><published>2022-07-12T00:00:00-05:00</published><updated>2022-07-12T00:00:00-05:00</updated><id>http://0.0.0.0:4000/blog/2022/07/12/%E5%BE%85%E3%81%A1%E8%A1%8C%E5%88%97%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0</id><content type="html" xml:base="http://0.0.0.0:4000/blog/2022/07/12/%E5%BE%85%E3%81%A1%E8%A1%8C%E5%88%97%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0.html"><![CDATA[<h2 id="待ち行列を勉強してwebアプリとして答えを出すプログラミング">待ち行列を勉強して、Webアプリとして答えを出すプログラミング</h2>
 
 <p>統計検定2級の勉強つながりで、<strong>待ち行列</strong>を勉強したので、これを求めるWebアプリを作ってみました。</p>
 
@@ -171,39 +181,7 @@ GitHub PagesはJekyllで構築されたファイルをGitHubへアップロー�
 <h3 id="jekyllの設定"><span>Jekyllの設定</span></h3>
 <p>JekyllのルートにCNAMEというファイルを作って運用したいURLを記述し、GitHubへpushします。</p>
 
-<p>以上でドメインが浸透すればマイドメインで表示されるようになるはずです。</p>]]></content><author><name></name></author><category term="Jekyll" /><category term="エンジニアとして" /><category term="git" /><summary type="html"><![CDATA[Jekyllを使っていて少し不満があったので、GitHub Pagesをマイドメインで使う事にしたので、その忘備録です。]]></summary></entry><entry><title type="html">シンタックスハイライト</title><link href="http://0.0.0.0:4000/jekyll/2013/06/09/%E3%82%B7%E3%83%B3%E3%82%BF%E3%83%83%E3%82%AF%E3%82%B9%E3%83%8F%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%88.html" rel="alternate" type="text/html" title="シンタックスハイライト" /><published>2013-06-09T00:00:00-05:00</published><updated>2013-06-09T00:00:00-05:00</updated><id>http://0.0.0.0:4000/jekyll/2013/06/09/%E3%82%B7%E3%83%B3%E3%82%BF%E3%83%83%E3%82%AF%E3%82%B9%E3%83%8F%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%88</id><content type="html" xml:base="http://0.0.0.0:4000/jekyll/2013/06/09/%E3%82%B7%E3%83%B3%E3%82%BF%E3%83%83%E3%82%AF%E3%82%B9%E3%83%8F%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%88.html"><![CDATA[<h2 id="コードを追加する時"><span>コードを追加する時</span></h2>
-
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-</pre></td><td class="code"><pre><span class="k">class</span> <span class="nc">Person</span>
-  <span class="k">def</span> <span class="nf">initialize</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-    <span class="vi">@name</span> <span class="o">=</span> <span class="nb">name</span>
-  <span class="k">end</span>
-
-  <span class="k">def</span> <span class="nf">hello</span>
-    <span class="s2">"Hello, friend!</span><span class="se">\n</span><span class="s2">My name is </span><span class="si">#{</span><span class="vi">@name</span><span class="si">}</span><span class="s2">!"</span>
-  <span class="k">end</span>
-<span class="k">end</span>
-
-<span class="n">charlie</span> <span class="o">=</span> <span class="no">Person</span><span class="p">.</span><span class="nf">new</span><span class="p">(</span><span class="s1">'Charlie'</span><span class="p">)</span>
-<span class="nb">puts</span> <span class="n">charlie</span><span class="p">.</span><span class="nf">hello</span>
-
-<span class="c1"># &gt;&gt; Hello, friend!</span>
-<span class="c1"># &gt;&gt; My name is Charlie!</span>
-</pre></td></tr></tbody></table></code></pre></figure>]]></content><author><name></name></author><category term="Jekyll" /><category term="エンジニアとして" /><summary type="html"><![CDATA[シンタックスハイライト機能を追加しました。]]></summary></entry><entry><title type="html">Jekyllを使う理由</title><link href="http://0.0.0.0:4000/jekyll/2013/06/09/Jekyll%E3%82%92%E4%BD%BF%E3%81%86%E7%90%86%E7%94%B1.html" rel="alternate" type="text/html" title="Jekyllを使う理由" /><published>2013-06-09T00:00:00-05:00</published><updated>2013-06-09T00:00:00-05:00</updated><id>http://0.0.0.0:4000/jekyll/2013/06/09/Jekyll%E3%82%92%E4%BD%BF%E3%81%86%E7%90%86%E7%94%B1</id><content type="html" xml:base="http://0.0.0.0:4000/jekyll/2013/06/09/Jekyll%E3%82%92%E4%BD%BF%E3%81%86%E7%90%86%E7%94%B1.html"><![CDATA[<h2 id="jekyll-いい感じ"><span>Jekyll いい感じ</span></h2>
+<p>以上でドメインが浸透すればマイドメインで表示されるようになるはずです。</p>]]></content><author><name></name></author><category term="Jekyll" /><category term="エンジニアとして" /><category term="git" /><summary type="html"><![CDATA[Jekyllを使っていて少し不満があったので、GitHub Pagesをマイドメインで使う事にしたので、その忘備録です。]]></summary></entry><entry><title type="html">Jekyllを使う理由</title><link href="http://0.0.0.0:4000/jekyll/2013/06/09/Jekyll%E3%82%92%E4%BD%BF%E3%81%86%E7%90%86%E7%94%B1.html" rel="alternate" type="text/html" title="Jekyllを使う理由" /><published>2013-06-09T00:00:00-05:00</published><updated>2013-06-09T00:00:00-05:00</updated><id>http://0.0.0.0:4000/jekyll/2013/06/09/Jekyll%E3%82%92%E4%BD%BF%E3%81%86%E7%90%86%E7%94%B1</id><content type="html" xml:base="http://0.0.0.0:4000/jekyll/2013/06/09/Jekyll%E3%82%92%E4%BD%BF%E3%81%86%E7%90%86%E7%94%B1.html"><![CDATA[<h2 id="jekyll-いい感じ"><span>Jekyll いい感じ</span></h2>
 
 <p class="img_position"><img src="/assets/images/jekyll-site.png" alt="jekyll-site" width="480" /></p>
 
@@ -242,10 +220,36 @@ GitHub PagesはJekyllで構築されたファイルをGitHubへアップロー�
 <ul>
   <li><a href="http://melborne.github.io/2013/05/20/now-the-time-to-start-jekyll/">Jekyllいつやるの？ジキやルの？今でしょ！</a></li>
   <li><a href="http://qiita.com/items/38c0300cbbaf8d2f2370">JekyllをStep by Stepで使って理解する</a></li>
-</ul>]]></content><author><name></name></author><category term="Jekyll" /><category term="このブログ" /><category term="git" /><summary type="html"><![CDATA[ブログを WordPress から Jekyll に代える人が多いというのも納得する使い心地です。]]></summary></entry><entry><title type="html">昨日書いた力作？？ 消滅</title><link href="http://0.0.0.0:4000/jekyll/2013/06/08/%E6%98%A8%E6%97%A5%E6%9B%B8%E3%81%84%E3%81%9F%E3%81%AE%E3%82%82%E3%81%AA%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%9F.html" rel="alternate" type="text/html" title="昨日書いた力作？？ 消滅" /><published>2013-06-08T00:00:00-05:00</published><updated>2013-06-08T00:00:00-05:00</updated><id>http://0.0.0.0:4000/jekyll/2013/06/08/%E6%98%A8%E6%97%A5%E6%9B%B8%E3%81%84%E3%81%9F%E3%81%AE%E3%82%82%E3%81%AA%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%9F</id><content type="html" xml:base="http://0.0.0.0:4000/jekyll/2013/06/08/%E6%98%A8%E6%97%A5%E6%9B%B8%E3%81%84%E3%81%9F%E3%81%AE%E3%82%82%E3%81%AA%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%9F.html"><![CDATA[<h2 id="git-のコマンドを適当に打つのは危険だと分かった"><span>git のコマンドを適当に打つのは危険だと分かった</span></h2>
+</ul>]]></content><author><name></name></author><category term="Jekyll" /><category term="このブログ" /><category term="git" /><summary type="html"><![CDATA[ブログを WordPress から Jekyll に代える人が多いというのも納得する使い心地です。]]></summary></entry><entry><title type="html">シンタックスハイライト</title><link href="http://0.0.0.0:4000/jekyll/2013/06/09/%E3%82%B7%E3%83%B3%E3%82%BF%E3%83%83%E3%82%AF%E3%82%B9%E3%83%8F%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%88.html" rel="alternate" type="text/html" title="シンタックスハイライト" /><published>2013-06-09T00:00:00-05:00</published><updated>2013-06-09T00:00:00-05:00</updated><id>http://0.0.0.0:4000/jekyll/2013/06/09/%E3%82%B7%E3%83%B3%E3%82%BF%E3%83%83%E3%82%AF%E3%82%B9%E3%83%8F%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%88</id><content type="html" xml:base="http://0.0.0.0:4000/jekyll/2013/06/09/%E3%82%B7%E3%83%B3%E3%82%BF%E3%83%83%E3%82%AF%E3%82%B9%E3%83%8F%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%88.html"><![CDATA[<h2 id="コードを追加する時"><span>コードを追加する時</span></h2>
 
-<p class="img_position"><img src="/assets/images/jekyll-site.png" alt="jekyll-site" width="480" /></p>
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+</pre></td><td class="code"><pre><span class="k">class</span> <span class="nc">Person</span>
+  <span class="k">def</span> <span class="nf">initialize</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+    <span class="vi">@name</span> <span class="o">=</span> <span class="nb">name</span>
+  <span class="k">end</span>
 
-<p><strong>git clean -fdx には気をつけろ！</strong></p>
+  <span class="k">def</span> <span class="nf">hello</span>
+    <span class="s2">"Hello, friend!</span><span class="se">\n</span><span class="s2">My name is </span><span class="si">#{</span><span class="vi">@name</span><span class="si">}</span><span class="s2">!"</span>
+  <span class="k">end</span>
+<span class="k">end</span>
 
-<p>バックアップをとっていなかったため悲しい結果が待っていました・・・。</p>]]></content><author><name></name></author><category term="Jekyll" /><category term="残念" /><category term="git" /><summary type="html"><![CDATA[残念ながら昨日書いたブログが消滅。]]></summary></entry></feed>
+<span class="n">charlie</span> <span class="o">=</span> <span class="no">Person</span><span class="p">.</span><span class="nf">new</span><span class="p">(</span><span class="s1">'Charlie'</span><span class="p">)</span>
+<span class="nb">puts</span> <span class="n">charlie</span><span class="p">.</span><span class="nf">hello</span>
+
+<span class="c1"># &gt;&gt; Hello, friend!</span>
+<span class="c1"># &gt;&gt; My name is Charlie!</span>
+</pre></td></tr></tbody></table></code></pre></figure>]]></content><author><name></name></author><category term="Jekyll" /><category term="エンジニアとして" /><summary type="html"><![CDATA[シンタックスハイライト機能を追加しました。]]></summary></entry></feed>
