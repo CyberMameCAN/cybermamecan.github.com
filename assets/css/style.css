@@ -12,6 +12,8 @@ a:active { color: #339963; text-decoration: none; }
 
 a:hover { color: #339963; text-decoration: underline; }
 
+h1, h2, h3, h4 { line-height: 2.0rem; }
+
 h1 { color: #6abee5; }
 
 strong { color: #6abee5; }
@@ -40,6 +42,8 @@ em { font-weight: bold; font-style: normal; }
 
 .gutter { padding-left: 0.25rem; padding-right: 0.25rem; background-color: rgba(255, 255, 255, 0.1); }
 
+.blog_head { text-align: center; }
+
 .post { border-top: 1px dashed #666; }
 
 /* 小画面 */
@@ -47,7 +51,7 @@ em { font-weight: bold; font-style: normal; }
 }
 */
 /* 中画面 */
-@media only screen and (min-width: 651px) { #whitebase { display: -webkit-flex; display: flex; /* flex設定 */ } .side-part { margin-right: 1rem; max-width: 300px; } }
+@media only screen and (min-width: 651px) { #whitebase { display: -webkit-flex; display: flex; /* flex設定 */ -webkit-justify-content: flex-end; justify-content: flex-end; -webkit-flex-direction: row-reverse; flex-direction: row-reverse; } .blog_head { text-align: left; } .side-part { margin-right: 1rem; max-width: 300px; } }
 
 /* 大画面 */
 
