@@ -1,4 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2022-07-17T22:47:29-05:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">田舎住み＠CyberMameCANのWeb履歴</title><subtitle>Web履歴と活動メーター</subtitle><entry><title type="html">今日は競馬-函館記念</title><link href="http://0.0.0.0:4000/blog/2022/07/17/%E4%BB%8A%E6%97%A5%E3%81%AF%E7%AB%B6%E9%A6%AC-%E5%87%BD%E9%A4%A8%E8%A8%98%E5%BF%B5.html" rel="alternate" type="text/html" title="今日は競馬-函館記念" /><published>2022-07-17T00:00:00-05:00</published><updated>2022-07-17T00:00:00-05:00</updated><id>http://0.0.0.0:4000/blog/2022/07/17/%E4%BB%8A%E6%97%A5%E3%81%AF%E7%AB%B6%E9%A6%AC-%E5%87%BD%E9%A4%A8%E8%A8%98%E5%BF%B5</id><content type="html" xml:base="http://0.0.0.0:4000/blog/2022/07/17/%E4%BB%8A%E6%97%A5%E3%81%AF%E7%AB%B6%E9%A6%AC-%E5%87%BD%E9%A4%A8%E8%A8%98%E5%BF%B5.html"><![CDATA[<h2 id="今回は天気悪かったですね">今回は天気悪かったですね・・・</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2022-07-24T07:02:37-05:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">田舎住み＠CyberMameCANのWeb履歴</title><subtitle>Web履歴と活動メーター</subtitle><entry><title type="html">釣りと競馬</title><link href="http://0.0.0.0:4000/blog/2022/07/24/%E9%87%A3%E3%82%8A%E3%81%A8%E7%AB%B6%E9%A6%AC.html" rel="alternate" type="text/html" title="釣りと競馬" /><published>2022-07-24T00:00:00-05:00</published><updated>2022-07-24T00:00:00-05:00</updated><id>http://0.0.0.0:4000/blog/2022/07/24/%E9%87%A3%E3%82%8A%E3%81%A8%E7%AB%B6%E9%A6%AC</id><content type="html" xml:base="http://0.0.0.0:4000/blog/2022/07/24/%E9%87%A3%E3%82%8A%E3%81%A8%E7%AB%B6%E9%A6%AC.html"><![CDATA[<h2 id="wireguardというvpnを試してみました">WireGuardというVPNを試してみました</h2>
+
+<p>L2TP・IPSecとかOpenVPNなど、VPNを作るのはかなり難しそうなイメージでしたが、用途にもよるのでしょうが<strong>WireGuard</strong>という選択も有りだと思いました。</p>
+
+<ul>
+  <li><a href="https://blog.tstylestudio.com/2022/07/22/wireguard-vpn%e3%81%ae%e8%a8%ad%e5%ae%9a%e3%81%ab%e6%89%8b%e3%82%92%e5%87%ba%e3%81%99/">WireGuard – VPNの設定に手を出す</a></li>
+</ul>
+
+<h2 id="土曜日のカヤックフィッシング">土曜日のカヤックフィッシング</h2>
+
+<ul>
+  <li><a href="https://egingerz.hatenablog.com/entry/2022/07/23/215355">ネイゴ祭りのち、力負け</a></li>
+</ul>
+
+<p>久々に長島町の天草側でカヤックフィッシングしてみました。姿は見れませんでしたが大物が掛かってちょっと焦った話しです。</p>
+
+<h2 id="日曜日のメインレースは小倉競馬場の中京記念">日曜日のメインレースは小倉競馬場の中京記念</h2>
+
+<p>自作の競馬予想AIで予想しています。<br />
+今回はハンデ戦でしたが、固く決まるだろうと予想してましたが・・・荒れた。<br />
+それにしてもカテドラル、最後の直線は斜行で降着じゃなかったのか・・・</p>
+
+<ul>
+  <li><a href="https://note.com/cybermamecan/n/nd278526f2ef3">[自作AI競馬予想] 中京記念(小倉競馬場 芝1800m)) - note</a></li>
+  <li><a href="https://crazy.to48.org/showtime">最新の予想はこちらから</a></li>
+</ul>]]></content><author><name></name></author><category term="blog" /><category term="釣り" /><category term="競馬" /><category term="VPS" /><summary type="html"><![CDATA[WireGuardというVPNを試してみました]]></summary></entry><entry><title type="html">今日は競馬-函館記念</title><link href="http://0.0.0.0:4000/blog/2022/07/17/%E4%BB%8A%E6%97%A5%E3%81%AF%E7%AB%B6%E9%A6%AC-%E5%87%BD%E9%A4%A8%E8%A8%98%E5%BF%B5.html" rel="alternate" type="text/html" title="今日は競馬-函館記念" /><published>2022-07-17T00:00:00-05:00</published><updated>2022-07-17T00:00:00-05:00</updated><id>http://0.0.0.0:4000/blog/2022/07/17/%E4%BB%8A%E6%97%A5%E3%81%AF%E7%AB%B6%E9%A6%AC-%E5%87%BD%E9%A4%A8%E8%A8%98%E5%BF%B5</id><content type="html" xml:base="http://0.0.0.0:4000/blog/2022/07/17/%E4%BB%8A%E6%97%A5%E3%81%AF%E7%AB%B6%E9%A6%AC-%E5%87%BD%E9%A4%A8%E8%A8%98%E5%BF%B5.html"><![CDATA[<h2 id="今回は天気悪かったですね">今回は天気悪かったですね・・・</h2>
 
 <p>馬場状態もあまり良くなく、馬券も難しかった。</p>
 
@@ -192,43 +217,4 @@ GitHub PagesはJekyllで構築されたファイルをGitHubへアップロー�
 <h3 id="jekyllの設定"><span>Jekyllの設定</span></h3>
 <p>JekyllのルートにCNAMEというファイルを作って運用したいURLを記述し、GitHubへpushします。</p>
 
-<p>以上でドメインが浸透すればマイドメインで表示されるようになるはずです。</p>]]></content><author><name></name></author><category term="Jekyll" /><category term="エンジニアとして" /><category term="git" /><summary type="html"><![CDATA[Jekyllを使っていて少し不満があったので、GitHub Pagesをマイドメインで使う事にしたので、その忘備録です。]]></summary></entry><entry><title type="html">Jekyllを使う理由</title><link href="http://0.0.0.0:4000/jekyll/2013/06/09/Jekyll%E3%82%92%E4%BD%BF%E3%81%86%E7%90%86%E7%94%B1.html" rel="alternate" type="text/html" title="Jekyllを使う理由" /><published>2013-06-09T00:00:00-05:00</published><updated>2013-06-09T00:00:00-05:00</updated><id>http://0.0.0.0:4000/jekyll/2013/06/09/Jekyll%E3%82%92%E4%BD%BF%E3%81%86%E7%90%86%E7%94%B1</id><content type="html" xml:base="http://0.0.0.0:4000/jekyll/2013/06/09/Jekyll%E3%82%92%E4%BD%BF%E3%81%86%E7%90%86%E7%94%B1.html"><![CDATA[<h2 id="jekyll-いい感じ"><span>Jekyll いい感じ</span></h2>
-
-<p class="img_position"><img src="/assets/images/jekyll-site.png" alt="jekyll-site" width="480" /></p>
-
-<p>このブログは<a href="http://jekyllrb.com"><strong>Jekyll</strong></a>を使って作っています。<br />
-シンプルなブログシステムで、スタティックな HTML ファイルを出力します。</p>
-
-<blockquote>
-  <p>Jekyll については<br />
-<a href="http://d.hatena.ne.jp/yuum3/20120620/1340180894">Jekyll は軽快なブログソフトなので乗り換えてみた</a><br />
-こちらに詳しく書かれていますので参考にされてください。</p>
-</blockquote>
-
-<p>Jekyllを選んだ理由ですが、</p>
-
-<ul>
-  <li>WordPress 以外のブログシステムを使ってみたかった</li>
-  <li>Ruby で書かれている</li>
-  <li>github pages に公開できる</li>
-  <li>Markdown が使える</li>
-</ul>
-
-<p>こんな感じの理由で興味が出ました。</p>
-
-<p>インストールは少しめんどくさかったですが（WordPressに比べてね）、
-半日ほどでWebを作り始める事が出来ました。<br />
-このブログは２日程でだいたいの形が出来上がって早速公開したところです。<br />
-（github pages は断念しましたけど(^^;）</p>
-
-<p>生成される Web の素材は <em>HTML + CSS の構成なので表示速度も速い</em>です！</p>
-
-<p>Ruby や github など僕の仕事では滅多に使う事がないのでスキルアップにも役立ちそう。</p>
-
-<p>しばらく使って行きたいと思っています。</p>
-
-<h3 id="参考にさせていただいたサイト">参考にさせていただいたサイト</h3>
-<ul>
-  <li><a href="http://melborne.github.io/2013/05/20/now-the-time-to-start-jekyll/">Jekyllいつやるの？ジキやルの？今でしょ！</a></li>
-  <li><a href="http://qiita.com/items/38c0300cbbaf8d2f2370">JekyllをStep by Stepで使って理解する</a></li>
-</ul>]]></content><author><name></name></author><category term="Jekyll" /><category term="このブログ" /><category term="git" /><summary type="html"><![CDATA[ブログを WordPress から Jekyll に代える人が多いというのも納得する使い心地です。]]></summary></entry></feed>
+<p>以上でドメインが浸透すればマイドメインで表示されるようになるはずです。</p>]]></content><author><name></name></author><category term="Jekyll" /><category term="エンジニアとして" /><category term="git" /><summary type="html"><![CDATA[Jekyllを使っていて少し不満があったので、GitHub Pagesをマイドメインで使う事にしたので、その忘備録です。]]></summary></entry></feed>
