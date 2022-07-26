@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2022-07-24T07:02:37-05:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">田舎住み＠CyberMameCANのWeb履歴</title><subtitle>Web履歴と活動メーター</subtitle><entry><title type="html">釣りと競馬</title><link href="http://0.0.0.0:4000/blog/2022/07/24/%E9%87%A3%E3%82%8A%E3%81%A8%E7%AB%B6%E9%A6%AC.html" rel="alternate" type="text/html" title="釣りと競馬" /><published>2022-07-24T00:00:00-05:00</published><updated>2022-07-24T00:00:00-05:00</updated><id>http://0.0.0.0:4000/blog/2022/07/24/%E9%87%A3%E3%82%8A%E3%81%A8%E7%AB%B6%E9%A6%AC</id><content type="html" xml:base="http://0.0.0.0:4000/blog/2022/07/24/%E9%87%A3%E3%82%8A%E3%81%A8%E7%AB%B6%E9%A6%AC.html"><![CDATA[<h2 id="wireguardというvpnを試してみました">WireGuardというVPNを試してみました</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2022-07-26T08:36:05-05:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">田舎住み＠CyberMameCANのWeb履歴</title><subtitle>Web履歴と活動メーター</subtitle><entry><title type="html">野菜スープと青じそジュース</title><link href="http://0.0.0.0:4000/blog/2022/07/24/%E9%87%8E%E8%8F%9C%E3%82%B9%E3%83%BC%E3%83%97%E3%81%A8%E9%9D%92%E3%81%98%E3%81%9D%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B9.html" rel="alternate" type="text/html" title="野菜スープと青じそジュース" /><published>2022-07-24T00:00:00-05:00</published><updated>2022-07-24T00:00:00-05:00</updated><id>http://0.0.0.0:4000/blog/2022/07/24/%E9%87%8E%E8%8F%9C%E3%82%B9%E3%83%BC%E3%83%97%E3%81%A8%E9%9D%92%E3%81%98%E3%81%9D%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B9</id><content type="html" xml:base="http://0.0.0.0:4000/blog/2022/07/24/%E9%87%8E%E8%8F%9C%E3%82%B9%E3%83%BC%E3%83%97%E3%81%A8%E9%9D%92%E3%81%98%E3%81%9D%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B9.html"><![CDATA[<h2 id="作ってみたいレシピ">作ってみたいレシピ</h2>
+
+<h3 id="野菜スープ">野菜スープ</h3>
+
+<p>野菜そのものの味も楽しめて、ヘルシーで、これは作ってみたい。</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OtXYD5XSFXs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<h3 id="青じそスープ">青じそスープ</h3>
+
+<p>自宅の庭に沢山の青じそが自生してるので、これは作って、飲んでみたいレシピ。</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JfIMk2xvpyQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>]]></content><author><name></name></author><category term="blog" /><category term="レシピ" /><summary type="html"><![CDATA[作ってみたいレシピ]]></summary></entry><entry><title type="html">釣りと競馬</title><link href="http://0.0.0.0:4000/blog/2022/07/24/%E9%87%A3%E3%82%8A%E3%81%A8%E7%AB%B6%E9%A6%AC.html" rel="alternate" type="text/html" title="釣りと競馬" /><published>2022-07-24T00:00:00-05:00</published><updated>2022-07-24T00:00:00-05:00</updated><id>http://0.0.0.0:4000/blog/2022/07/24/%E9%87%A3%E3%82%8A%E3%81%A8%E7%AB%B6%E9%A6%AC</id><content type="html" xml:base="http://0.0.0.0:4000/blog/2022/07/24/%E9%87%A3%E3%82%8A%E3%81%A8%E7%AB%B6%E9%A6%AC.html"><![CDATA[<h2 id="wireguardというvpnを試してみました">WireGuardというVPNを試してみました</h2>
 
 <p>L2TP・IPSecとかOpenVPNなど、VPNを作るのはかなり難しそうなイメージでしたが、用途にもよるのでしょうが<strong>WireGuard</strong>という選択も有りだと思いました。</p>
 
@@ -172,49 +184,4 @@ scssが使えたり、テンプレートが使えたり。開発が楽になり�
 <span class="p">}</span>
 </pre></td></tr></tbody></table></code></pre></figure>
 
-<p>こだわれば色々複雑な事が出来るのでしょうが、手っ取り早く済ませたかったので、２時間使って出来る範囲で追加しました。</p>]]></content><author><name></name></author><category term="Jekyll" /><category term="エンジニアとして" /><summary type="html"><![CDATA[レスポンシブウェブデザインに対応しました。]]></summary></entry><entry><title type="html">Jekyll + GitHub Pages</title><link href="http://0.0.0.0:4000/jekyll/2013/07/01/github-pages%E3%81%B8%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB.html" rel="alternate" type="text/html" title="Jekyll + GitHub Pages" /><published>2013-07-01T00:00:00-05:00</published><updated>2013-07-01T00:00:00-05:00</updated><id>http://0.0.0.0:4000/jekyll/2013/07/01/github-pages%E3%81%B8%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB</id><content type="html" xml:base="http://0.0.0.0:4000/jekyll/2013/07/01/github-pages%E3%81%B8%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB.html"><![CDATA[<p>このブログは<a href="http://jekyllrb.com/">Jekyll</a>で作っています。<br />
-Markdownでコーディングし、それをテンプレート（Liquid構文）に則って自動でHTMLへ変換してくれます。<br />
-変換して作成されたHTMLやCSSファイル、画像などをWebサーバにアップすれば、面倒な設定も無く公開出来ます。<br />
-簡単にHTMLを生成出来る優れものです。</p>
-
-<h2 id="ちょっとした不満"><span>ちょっとした不満</span></h2>
-<p>ただ一つ、Jekyllに不満があるとしたら、一つファイルを修正する事で全ファイルが再作成される事です。<br />
-FTPソフトはPanic社のTransmitを使ってWebサーバと同期をするようにしてますが、ファイルの作成日が変わってしまうため結局すべてのファイルをアップロードし直しとなってしまいます。</p>
-
-<p>これを解決するにはやっぱり<a href="http://pages.github.com">GitHub Pages</a>を利用するのが一番かな、という結論に至りました。<br />
-GitHub PagesはJekyllで構築されたファイルをGitHubへアップロードすればあっという間に公開できてしまう大変面白いものです。
-もちろん無料なんです。</p>
-
-<p>ちょっと前フリが長かったですが、GitHub Pagesを作ってマイドメインで表示されるところまで忘備録も兼ねて残してみます。</p>
-
-<h2 id="リポジトリ作成"><span>リポジトリ作成</span></h2>
-
-<p><a href="https://github.com">GitHub</a>にアクセスしたら右上の<b>アイコン（create a new repo）</b>をクリックします。</p>
-<p class="img_position"><img src="/assets/images/1.Create-a-new-repo.png" alt="Create a new repo" width="" /></p>
-<p>Repository nameは<b>username.GitHub.com </b>を入力します。<br />
-「username」は作った自分のIDですが、この同じIDで作らないとGitHub PagesにWebサイトとして反映されないようです。</p>
-
-<h2 id="githubへpush"><span>GitHubへpush</span></h2>
-<p>Jekyllのルートに移動して次のコマンドを実行して行けばGitHub Pagesに数分で反映されるようになります。</p>
-
-<figure class="highlight"><pre><code class="language-sh" data-lang="sh"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
-2
-3
-4
-</pre></td><td class="code"><pre><span class="nv">$ </span>git add <span class="nb">.</span>
-<span class="nv">$ </span>git commit <span class="nt">-m</span> <span class="s2">"first commit"</span>
-<span class="nv">$ </span>git remote add origin https://GitHub.com/username/username.github.com.git
-<span class="nv">$ </span>git push <span class="nt">-u</span> origin master
-</pre></td></tr></tbody></table></code></pre></figure>
-
-<h2 id="マイドメインで運用する時"><span>マイドメインで運用する時</span></h2>
-<p>これは<b>サブドメイン</b>の場合です。</p>
-
-<h3 id="ドメインの設定"><span>ドメインの設定</span></h3>
-<p>種別を<em>別名(CNAME)</em>、値を<em>username.github.io.</em>にそれぞれ指定し、githubのサイトを見に行くように設定します。<br />
-（username.github.io.の一番最後にピリオドをお忘れなく。）</p>
-
-<h3 id="jekyllの設定"><span>Jekyllの設定</span></h3>
-<p>JekyllのルートにCNAMEというファイルを作って運用したいURLを記述し、GitHubへpushします。</p>
-
-<p>以上でドメインが浸透すればマイドメインで表示されるようになるはずです。</p>]]></content><author><name></name></author><category term="Jekyll" /><category term="エンジニアとして" /><category term="git" /><summary type="html"><![CDATA[Jekyllを使っていて少し不満があったので、GitHub Pagesをマイドメインで使う事にしたので、その忘備録です。]]></summary></entry></feed>
+<p>こだわれば色々複雑な事が出来るのでしょうが、手っ取り早く済ませたかったので、２時間使って出来る範囲で追加しました。</p>]]></content><author><name></name></author><category term="Jekyll" /><category term="エンジニアとして" /><summary type="html"><![CDATA[レスポンシブウェブデザインに対応しました。]]></summary></entry></feed>
