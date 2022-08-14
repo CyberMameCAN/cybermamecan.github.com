@@ -1,4 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2022-08-08T08:34:39-05:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">田舎住み＠CyberMameCANのWeb履歴</title><subtitle>Web履歴と活動メーター</subtitle><entry><title type="html">今週はダートのG3戦、エルムSとレパードS</title><link href="http://0.0.0.0:4000/blog/2022/08/06/%E4%BB%8A%E9%80%B1%E3%81%AF%E3%83%80%E3%83%BC%E3%83%88%E3%81%AEG3%E6%88%A6.html" rel="alternate" type="text/html" title="今週はダートのG3戦、エルムSとレパードS" /><published>2022-08-06T00:00:00-05:00</published><updated>2022-08-06T00:00:00-05:00</updated><id>http://0.0.0.0:4000/blog/2022/08/06/%E4%BB%8A%E9%80%B1%E3%81%AF%E3%83%80%E3%83%BC%E3%83%88%E3%81%AEG3%E6%88%A6</id><content type="html" xml:base="http://0.0.0.0:4000/blog/2022/08/06/%E4%BB%8A%E9%80%B1%E3%81%AF%E3%83%80%E3%83%BC%E3%83%88%E3%81%AEG3%E6%88%A6.html"><![CDATA[<p>今週末も天気が少々悪いようです。ちょっと無理すればカヤックで釣りは出来そうですが、無理は禁物。<br />
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2022-08-14T07:10:31-05:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">田舎住み＠CyberMameCANのWeb履歴</title><subtitle>Web履歴と活動メーター</subtitle><entry><title type="html">関屋記念と小倉記念</title><link href="http://0.0.0.0:4000/blog/2022/08/14/%E9%96%A2%E5%B1%8B%E8%A8%98%E5%BF%B5%E3%81%A8%E5%B0%8F%E5%80%89%E8%A8%98%E5%BF%B5.html" rel="alternate" type="text/html" title="関屋記念と小倉記念" /><published>2022-08-14T00:00:00-05:00</published><updated>2022-08-14T00:00:00-05:00</updated><id>http://0.0.0.0:4000/blog/2022/08/14/%E9%96%A2%E5%B1%8B%E8%A8%98%E5%BF%B5%E3%81%A8%E5%B0%8F%E5%80%89%E8%A8%98%E5%BF%B5-</id><content type="html" xml:base="http://0.0.0.0:4000/blog/2022/08/14/%E9%96%A2%E5%B1%8B%E8%A8%98%E5%BF%B5%E3%81%A8%E5%B0%8F%E5%80%89%E8%A8%98%E5%BF%B5.html"><![CDATA[<p>今週はお盆なので釣りはおやすみ。統計検定2級の資格試験が来週にあるのでその試験勉強と競馬で週末を過ごしました。</p>
+
+<h2 id="今週は札幌新潟ともダートのグレード競走">今週は札幌・新潟ともダートのグレード競走</h2>
+
+<p>今週のメインレースは新潟競馬場は関屋記念、小倉競馬場は小倉記念、ともに芝のG3です。<br />
+このレースの後は札幌記念、ローカル競馬も佳境に入ったのかな・・・という感じです。</p>
+
+<p>自作の競馬予想AIで予想しています。<br />
+サマーシリーズは単勝回収率が悪いので、なんとか<strong>当たってくれ！</strong>と祈るばかりです。<br />
+先週は珍しくメインレースで当たったので、7月の負けを取り返せたのですが、今週はまた負けてしまいました（泣）</p>
+
+<ul>
+  <li><a href="https://note.com/cybermamecan/n/na0f8591a372b">[自作AI競馬予想]関屋記念(新潟競馬場 芝1600m) - note</a></li>
+  <li><a href="https://note.com/cybermamecan/n/n1faa67b9b3f2">[自作AI競馬予想]小倉記念(小倉競馬場 芝2000m)- note</a></li>
+  <li><a href="https://crazy.to48.org/showtime">最新の予想はこちらから</a></li>
+</ul>
+
+<h2 id="it系ブログの更新">IT系ブログの更新</h2>
+
+<p>動画編集のために、ダビンチ・リゾルブをインストールして試用してみたので、そのブログを書きました。</p>
+
+<ul>
+  <li><a href="https://blog.tstylestudio.com/2022/07/31/%e3%80%8c%e5%be%85%e3%81%a1%e8%a1%8c%e5%88%97%e3%80%8d%e3%82%92golang%e3%81%a7%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0/">DaVinci ResolveをUbuntu20で試用してみました</a></li>
+</ul>
+
+<p>DaVinci ResolveをUbuntuで試用してみた時のブログを書きました。</p>
+
+<ul>
+  <li><a href="https://blog.tstylestudio.com/2022/08/08/davinci-resolve%e3%82%92ubuntu20%e3%81%a7%e8%a9%a6%e7%94%a8%e3%81%97%e3%81%a6%e3%81%bf%e3%81%be%e3%81%97%e3%81%9f/">DaVinci ResolveをUbuntu20で試用してみました</a></li>
+</ul>]]></content><author><name></name></author><category term="blog" /><category term="競馬" /><category term="web技術" /><summary type="html"><![CDATA[今週はお盆なので釣りはおやすみ。統計検定2級の資格試験が来週にあるのでその試験勉強と競馬で週末を過ごしました。]]></summary></entry><entry><title type="html">今週はダートのG3戦、エルムSとレパードS</title><link href="http://0.0.0.0:4000/blog/2022/08/06/%E4%BB%8A%E9%80%B1%E3%81%AF%E3%83%80%E3%83%BC%E3%83%88%E3%81%AEG3%E6%88%A6.html" rel="alternate" type="text/html" title="今週はダートのG3戦、エルムSとレパードS" /><published>2022-08-06T00:00:00-05:00</published><updated>2022-08-06T00:00:00-05:00</updated><id>http://0.0.0.0:4000/blog/2022/08/06/%E4%BB%8A%E9%80%B1%E3%81%AF%E3%83%80%E3%83%BC%E3%83%88%E3%81%AEG3%E6%88%A6</id><content type="html" xml:base="http://0.0.0.0:4000/blog/2022/08/06/%E4%BB%8A%E9%80%B1%E3%81%AF%E3%83%80%E3%83%BC%E3%83%88%E3%81%AEG3%E6%88%A6.html"><![CDATA[<p>今週末も天気が少々悪いようです。ちょっと無理すればカヤックで釣りは出来そうですが、無理は禁物。<br />
 コロナウィルスも蔓延しているので、何かあってからでは遅いです。<br />
 今週も自宅で競馬して、統計検定2級経向けてのお勉強などしようかと思ってます。</p>
 
@@ -40,19 +69,7 @@
   <li><a href="https://note.com/cybermamecan/n/n482e165422ef">[自作AI競馬予想] アイビスサマーダッシュ(新潟競馬場 芝1000m直線) - note</a></li>
   <li><a href="https://note.com/cybermamecan/n/n2953e2c6a1b4">[自作AI競馬予想] クイーンＳ(札幌競馬場 芝1800m) - note</a></li>
   <li><a href="https://crazy.to48.org/showtime">最新の予想はこちらから</a></li>
-</ul>]]></content><author><name></name></author><category term="blog" /><category term="競馬" /><summary type="html"><![CDATA[今週末は風が強く釣りはお休みです。コロナウィルスも蔓延しているので、今日は自宅で競馬して、余裕があれば統計のお勉強などしようかと思ってます。]]></summary></entry><entry><title type="html">野菜スープと青じそジュース</title><link href="http://0.0.0.0:4000/blog/2022/07/24/%E9%87%8E%E8%8F%9C%E3%82%B9%E3%83%BC%E3%83%97%E3%81%A8%E9%9D%92%E3%81%98%E3%81%9D%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B9.html" rel="alternate" type="text/html" title="野菜スープと青じそジュース" /><published>2022-07-24T00:00:00-05:00</published><updated>2022-07-24T00:00:00-05:00</updated><id>http://0.0.0.0:4000/blog/2022/07/24/%E9%87%8E%E8%8F%9C%E3%82%B9%E3%83%BC%E3%83%97%E3%81%A8%E9%9D%92%E3%81%98%E3%81%9D%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B9</id><content type="html" xml:base="http://0.0.0.0:4000/blog/2022/07/24/%E9%87%8E%E8%8F%9C%E3%82%B9%E3%83%BC%E3%83%97%E3%81%A8%E9%9D%92%E3%81%98%E3%81%9D%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B9.html"><![CDATA[<h2 id="作ってみたいレシピ">作ってみたいレシピ</h2>
-
-<h3 id="野菜スープ">野菜スープ</h3>
-
-<p>野菜そのものの味も楽しめて、ヘルシーで、これは作ってみたい。</p>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OtXYD5XSFXs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-<h3 id="青じそスープ">青じそスープ</h3>
-
-<p>自宅の庭に沢山の青じそが自生してるので、これは作って、飲んでみたいレシピ。</p>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JfIMk2xvpyQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>]]></content><author><name></name></author><category term="blog" /><category term="レシピ" /><summary type="html"><![CDATA[作ってみたいレシピ]]></summary></entry><entry><title type="html">釣りと競馬</title><link href="http://0.0.0.0:4000/blog/2022/07/24/%E9%87%A3%E3%82%8A%E3%81%A8%E7%AB%B6%E9%A6%AC.html" rel="alternate" type="text/html" title="釣りと競馬" /><published>2022-07-24T00:00:00-05:00</published><updated>2022-07-24T00:00:00-05:00</updated><id>http://0.0.0.0:4000/blog/2022/07/24/%E9%87%A3%E3%82%8A%E3%81%A8%E7%AB%B6%E9%A6%AC</id><content type="html" xml:base="http://0.0.0.0:4000/blog/2022/07/24/%E9%87%A3%E3%82%8A%E3%81%A8%E7%AB%B6%E9%A6%AC.html"><![CDATA[<h2 id="wireguardというvpnを試してみました">WireGuardというVPNを試してみました</h2>
+</ul>]]></content><author><name></name></author><category term="blog" /><category term="競馬" /><summary type="html"><![CDATA[今週末は風が強く釣りはお休みです。コロナウィルスも蔓延しているので、今日は自宅で競馬して、余裕があれば統計のお勉強などしようかと思ってます。]]></summary></entry><entry><title type="html">釣りと競馬</title><link href="http://0.0.0.0:4000/blog/2022/07/24/%E9%87%A3%E3%82%8A%E3%81%A8%E7%AB%B6%E9%A6%AC.html" rel="alternate" type="text/html" title="釣りと競馬" /><published>2022-07-24T00:00:00-05:00</published><updated>2022-07-24T00:00:00-05:00</updated><id>http://0.0.0.0:4000/blog/2022/07/24/%E9%87%A3%E3%82%8A%E3%81%A8%E7%AB%B6%E9%A6%AC</id><content type="html" xml:base="http://0.0.0.0:4000/blog/2022/07/24/%E9%87%A3%E3%82%8A%E3%81%A8%E7%AB%B6%E9%A6%AC.html"><![CDATA[<h2 id="wireguardというvpnを試してみました">WireGuardというVPNを試してみました</h2>
 
 <p>L2TP・IPSecとかOpenVPNなど、VPNを作るのはかなり難しそうなイメージでしたが、用途にもよるのでしょうが<strong>WireGuard</strong>という選択も有りだと思いました。</p>
 
@@ -77,7 +94,19 @@
 <ul>
   <li><a href="https://note.com/cybermamecan/n/nd278526f2ef3">[自作AI競馬予想] 中京記念(小倉競馬場 芝1800m)) - note</a></li>
   <li><a href="https://crazy.to48.org/showtime">最新の予想はこちらから</a></li>
-</ul>]]></content><author><name></name></author><category term="blog" /><category term="釣り" /><category term="競馬" /><category term="VPS" /><summary type="html"><![CDATA[WireGuardというVPNを試してみました]]></summary></entry><entry><title type="html">今日は競馬-函館記念</title><link href="http://0.0.0.0:4000/blog/2022/07/17/%E4%BB%8A%E6%97%A5%E3%81%AF%E7%AB%B6%E9%A6%AC-%E5%87%BD%E9%A4%A8%E8%A8%98%E5%BF%B5.html" rel="alternate" type="text/html" title="今日は競馬-函館記念" /><published>2022-07-17T00:00:00-05:00</published><updated>2022-07-17T00:00:00-05:00</updated><id>http://0.0.0.0:4000/blog/2022/07/17/%E4%BB%8A%E6%97%A5%E3%81%AF%E7%AB%B6%E9%A6%AC-%E5%87%BD%E9%A4%A8%E8%A8%98%E5%BF%B5</id><content type="html" xml:base="http://0.0.0.0:4000/blog/2022/07/17/%E4%BB%8A%E6%97%A5%E3%81%AF%E7%AB%B6%E9%A6%AC-%E5%87%BD%E9%A4%A8%E8%A8%98%E5%BF%B5.html"><![CDATA[<h2 id="今回は天気悪かったですね">今回は天気悪かったですね・・・</h2>
+</ul>]]></content><author><name></name></author><category term="blog" /><category term="釣り" /><category term="競馬" /><category term="VPS" /><summary type="html"><![CDATA[WireGuardというVPNを試してみました]]></summary></entry><entry><title type="html">野菜スープと青じそジュース</title><link href="http://0.0.0.0:4000/blog/2022/07/24/%E9%87%8E%E8%8F%9C%E3%82%B9%E3%83%BC%E3%83%97%E3%81%A8%E9%9D%92%E3%81%98%E3%81%9D%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B9.html" rel="alternate" type="text/html" title="野菜スープと青じそジュース" /><published>2022-07-24T00:00:00-05:00</published><updated>2022-07-24T00:00:00-05:00</updated><id>http://0.0.0.0:4000/blog/2022/07/24/%E9%87%8E%E8%8F%9C%E3%82%B9%E3%83%BC%E3%83%97%E3%81%A8%E9%9D%92%E3%81%98%E3%81%9D%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B9</id><content type="html" xml:base="http://0.0.0.0:4000/blog/2022/07/24/%E9%87%8E%E8%8F%9C%E3%82%B9%E3%83%BC%E3%83%97%E3%81%A8%E9%9D%92%E3%81%98%E3%81%9D%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B9.html"><![CDATA[<h2 id="作ってみたいレシピ">作ってみたいレシピ</h2>
+
+<h3 id="野菜スープ">野菜スープ</h3>
+
+<p>野菜そのものの味も楽しめて、ヘルシーで、これは作ってみたい。</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OtXYD5XSFXs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<h3 id="青じそスープ">青じそスープ</h3>
+
+<p>自宅の庭に沢山の青じそが自生してるので、これは作って、飲んでみたいレシピ。</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JfIMk2xvpyQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>]]></content><author><name></name></author><category term="blog" /><category term="レシピ" /><summary type="html"><![CDATA[作ってみたいレシピ]]></summary></entry><entry><title type="html">今日は競馬-函館記念</title><link href="http://0.0.0.0:4000/blog/2022/07/17/%E4%BB%8A%E6%97%A5%E3%81%AF%E7%AB%B6%E9%A6%AC-%E5%87%BD%E9%A4%A8%E8%A8%98%E5%BF%B5.html" rel="alternate" type="text/html" title="今日は競馬-函館記念" /><published>2022-07-17T00:00:00-05:00</published><updated>2022-07-17T00:00:00-05:00</updated><id>http://0.0.0.0:4000/blog/2022/07/17/%E4%BB%8A%E6%97%A5%E3%81%AF%E7%AB%B6%E9%A6%AC-%E5%87%BD%E9%A4%A8%E8%A8%98%E5%BF%B5</id><content type="html" xml:base="http://0.0.0.0:4000/blog/2022/07/17/%E4%BB%8A%E6%97%A5%E3%81%AF%E7%AB%B6%E9%A6%AC-%E5%87%BD%E9%A4%A8%E8%A8%98%E5%BF%B5.html"><![CDATA[<h2 id="今回は天気悪かったですね">今回は天気悪かったですね・・・</h2>
 
 <p>馬場状態もあまり良くなく、馬券も難しかった。</p>
 
@@ -144,23 +173,4 @@ Dockerで開発と公開用のWebサーバの環境を整えました。</p>
   <li><a href="https://qiita.com/mktshhr/items/578cc5b5aea5b3ed9303">Gitのリポジトリ（履歴）を初期化する</a></li>
 </ul>
 
-<p>以上になります</p>]]></content><author><name></name></author><category term="Web技術" /><category term="Jekyll" /><summary type="html"><![CDATA[Jekyllを新しくするために、お世話になったWebサイト]]></summary></entry><entry><title type="html">Re Jekyll</title><link href="http://0.0.0.0:4000/web%E6%8A%80%E8%A1%93/2022/07/06/Re-Jekyll-start.html" rel="alternate" type="text/html" title="Re Jekyll" /><published>2022-07-06T00:00:00-05:00</published><updated>2022-07-06T00:00:00-05:00</updated><id>http://0.0.0.0:4000/web%E6%8A%80%E8%A1%93/2022/07/06/Re-Jekyll-start</id><content type="html" xml:base="http://0.0.0.0:4000/web%E6%8A%80%E8%A1%93/2022/07/06/Re-Jekyll-start.html"><![CDATA[<h2 id="シンjekyll">シンJekyll</h2>
-
-<p>結構、かなり遠ざかっていましたが、再び<strong>Jekyll</strong>に興味が出てきました。</p>
-
-<p>バージョンも4.1.1になってました。2013年ごろに一度触っていましたが、その時は1.Xだったと思います。</p>
-
-<ul>
-  <li><a href="https://jekyllrb-ja.github.io/">Jekyll</a></li>
-</ul>
-
-<h3 id="設定等簡単になってますね">設定等簡単になってますね</h3>
-
-<p>以前はrbenvやgemファイルの管理など少々面倒だったイメージでしたが、今回はDockerで設定したので、かなり簡単になりました。</p>
-
-<p>またこのサイトは、都度つど更新をしていければと思います。</p>
-
-<h3 id="静的サイトを作る時にも使える">静的サイトを作る時にも使える</h3>
-
-<p>静的サイトを作るときも、良い感じに使えそうです。<br />
-scssが使えたり、テンプレートが使えたり。開発が楽になりそうです。</p>]]></content><author><name></name></author><category term="Web技術" /><category term="Jekyll" /><category term="Ruby" /><summary type="html"><![CDATA[Jeykll 再び]]></summary></entry></feed>
+<p>以上になります</p>]]></content><author><name></name></author><category term="Web技術" /><category term="Jekyll" /><summary type="html"><![CDATA[Jekyllを新しくするために、お世話になったWebサイト]]></summary></entry></feed>
