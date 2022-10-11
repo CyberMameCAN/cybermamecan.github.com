@@ -38,6 +38,8 @@ em { font-weight: bold; font-style: normal; }
 
 .main-contents { background-color: #444; padding: 1rem; max-width: 900px; line-height: 1.66rem; width: 100%; }
 
+.main-contents h2 { background-color: rgba(255, 255, 255, 0.05); border-left: 5px solid rgba(255, 255, 255, 0.1); color: #dfdbdb; margin: 2rem auto 1rem; padding: 0.33rem 0.33rem 0.33rem 1rem; }
+
 .highlight { background-color: rgba(255, 255, 255, 0.1); }
 
 .gutter { padding-left: 0.25rem; padding-right: 0.25rem; background-color: rgba(255, 255, 255, 0.1); }
