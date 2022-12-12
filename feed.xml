@@ -1,4 +1,48 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2022-12-04T18:30:02+09:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">田舎住み＠CyberMameCANのWeb履歴</title><subtitle>Web履歴と活動メーター</subtitle><entry><title type="html">結び方</title><link href="http://0.0.0.0:4000/blog/2022/10/08/%E7%B5%90%E3%81%B3%E6%96%B9.html" rel="alternate" type="text/html" title="結び方" /><published>2022-10-08T00:00:00+09:00</published><updated>2022-10-08T00:00:00+09:00</updated><id>http://0.0.0.0:4000/blog/2022/10/08/%E7%B5%90%E3%81%B3%E6%96%B9</id><content type="html" xml:base="http://0.0.0.0:4000/blog/2022/10/08/%E7%B5%90%E3%81%B3%E6%96%B9.html"><![CDATA[<h2 id="釣りやキャンプで使える覚えておきたい結束方法">釣りやキャンプで使える、覚えておきたい結束方法</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2022-12-12T23:28:45+09:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">田舎住み＠CyberMameCANのWeb履歴</title><subtitle>Web履歴と活動メーター</subtitle><entry><title type="html">OneDriveやGhost,Hugoの設定,チャンピオンズCと阪神JF</title><link href="http://0.0.0.0:4000/blog/2022/12/12/OneDrive%E3%82%84Ghost,Hugo%E3%81%AE%E8%A8%AD%E5%AE%9A,%E3%83%81%E3%83%A3%E3%83%B3%E3%83%94%E3%82%AA%E3%83%B3%E3%82%BAC%E3%81%A8%E9%98%AA%E7%A5%9EJF.html" rel="alternate" type="text/html" title="OneDriveやGhost,Hugoの設定,チャンピオンズCと阪神JF" /><published>2022-12-12T00:00:00+09:00</published><updated>2022-12-12T00:00:00+09:00</updated><id>http://0.0.0.0:4000/blog/2022/12/12/OneDrive%E3%82%84Ghost,Hugo%E3%81%AE%E8%A8%AD%E5%AE%9A,%E3%83%81%E3%83%A3%E3%83%B3%E3%83%94%E3%82%AA%E3%83%B3%E3%82%BAC%E3%81%A8%E9%98%AA%E7%A5%9EJF</id><content type="html" xml:base="http://0.0.0.0:4000/blog/2022/12/12/OneDrive%E3%82%84Ghost,Hugo%E3%81%AE%E8%A8%AD%E5%AE%9A,%E3%83%81%E3%83%A3%E3%83%B3%E3%83%94%E3%82%AA%E3%83%B3%E3%82%BAC%E3%81%A8%E9%98%AA%E7%A5%9EJF.html"><![CDATA[<h1 id="先週今週の振り返り">先週・今週の振り返り</h1>
+
+<p>ワールドカップサッカーは惜しくも決勝トーナメントで敗退。<br />
+スポーツは野球とラグビーが好きなので、サッカーまでキャッチアップする余裕がなかったのですが、<br />
+当初はジャパンのメンバーすら数人しか知らないという状況でしたが、試合を見ているとメンバーと顔も一致したり、役割も分かったりして、だんだん面白くなってきました。<br />
+結果はホント残念でした。最後はPKで負けてしまったけど延長ドローだからほぼ互角の実力。<br />
+サッカー選手は若い時から海外に出て武者修行して、自分を高めていて凄いなって思います。</p>
+
+<h2 id="釣り">釣り</h2>
+
+<p>今週も風が強くて、カヤック出せなかった。気温も低くなってきたし、なかなか厳しい状況。烏賊のストックも無くなり、なんとか釣りたいのですが。。。</p>
+
+<h2 id="競馬の予想">競馬の予想</h2>
+
+<p>先週の競馬はAI予想ではプラス収支では無かったけど、ある程度は当たってましたが、買った馬券はことごとく外してしまいました&gt;&lt;<br />
+残念。<br />
+ココのところ、DeepLearningでの予想が機械学習の予想精度を超えてきたので、これからも継続してモデルを再構築していこうと思います。</p>
+
+<ul>
+  <li><a href="https://note.com/cybermamecan/n/ncbab434e1de5">第23回チャンピオンズカップ（中京競馬場 ダート1800m）</a></li>
+</ul>
+
+<p>なんと、先週から買った馬券が全然当たりません。香港の2レースが当たったけど、JRAは34連敗中です。悲しすぎます。</p>
+
+<ul>
+  <li><a href="hhttps://note.com/cybermamecan/n/ncebf8acddc70">第74回阪神ジュベナイルフィリーズ(阪神競馬場 芝1600・外B) </a></li>
+</ul>
+
+<h2 id="linuxの設定">Linuxの設定</h2>
+
+<h3 id="onedrive">OneDrive</h3>
+
+<p>OneDriveもせっかく25GBの容量をもらってるので、Ubuntuでも活用したくて設定してみました。思っていたより簡単で、もっと速く設定しなかったことに後悔。</p>
+
+<ul>
+  <li><a href="https://blog.tstylestudio.com/2022/12/06/ubuntu20-04%e3%81%abonedrive%e3%82%92%e8%a8%ad%e5%ae%9a/">Ubuntu20.04にOneDriveを設定</a></li>
+</ul>
+
+<p>先週と今週で、GhostでヘッドレスなCMSをインストールしてみたり、静的サイトジェネレータでWebページを作るテストをしたり、公開先としてPaaSを検討して<a href="https://fly.io/">fly.io</a>とかでWebページの公開のテストしたりしてました。</p>
+
+<ul>
+  <li><a href="https://blog.tstylestudio.com/2022/12/08/ghostdockerapache2%e3%82%b5%e3%83%96%e3%83%87%e3%82%a3%e3%83%ac%e3%82%af%e3%83%88%e3%83%aa%e3%81%a7%e8%a8%ad%e5%ae%9a%e3%81%97%e3%81%a6%e3%81%bf%e3%81%be%e3%81%97%e3%81%9f/">Ghost+Docker+Apache2(サブディレクトリ)で設定してみました</a></li>
+  <li><a href="https://blog.tstylestudio.com/2022/12/10/fly-io-heroku%e3%81%ae%e4%bb%a3%e3%82%8f%e3%82%8a%e3%81%a8%e3%81%97%e3%81%a6/">fly io herokuの代わりとして</a></li>
+  <li><a href="https://blog.tstylestudio.com/2022/12/12/hugo%e3%82%92docker%e3%81%a7%e8%a9%a6%e3%81%97%e3%81%a6%e3%81%bf%e3%82%8b-%e9%9d%99%e7%9a%84%e3%82%b5%e3%82%a4%e3%83%88%e3%82%b8%e3%82%a7%e3%83%8d%e3%83%ac%e3%83%bc%e3%82%bf/">HugoをDockerで試してみる 静的サイトジェネレータ</a></li>
+</ul>]]></content><author><name></name></author><category term="blog" /><category term="競馬" /><category term="web技術" /><summary type="html"><![CDATA[先週・今週の振り返り]]></summary></entry><entry><title type="html">結び方</title><link href="http://0.0.0.0:4000/blog/2022/10/08/%E7%B5%90%E3%81%B3%E6%96%B9.html" rel="alternate" type="text/html" title="結び方" /><published>2022-10-08T00:00:00+09:00</published><updated>2022-10-08T00:00:00+09:00</updated><id>http://0.0.0.0:4000/blog/2022/10/08/%E7%B5%90%E3%81%B3%E6%96%B9</id><content type="html" xml:base="http://0.0.0.0:4000/blog/2022/10/08/%E7%B5%90%E3%81%B3%E6%96%B9.html"><![CDATA[<h2 id="釣りやキャンプで使える覚えておきたい結束方法">釣りやキャンプで使える、覚えておきたい結束方法</h2>
 
 <p>もやい結び、エバンスノット、ワダノット、何とか忘れずにいつでも使えるようになりたい結び方です。</p>
 
@@ -149,7 +193,19 @@ AI予想では◎-▲で決まったので、馬連を買えてれば・・・�
   <li><a href="https://note.com/cybermamecan/n/n482e165422ef">[自作AI競馬予想] アイビスサマーダッシュ(新潟競馬場 芝1000m直線) - note</a></li>
   <li><a href="https://note.com/cybermamecan/n/n2953e2c6a1b4">[自作AI競馬予想] クイーンＳ(札幌競馬場 芝1800m) - note</a></li>
   <li><a href="https://crazy.to48.org/showtime">最新の予想はこちらから</a></li>
-</ul>]]></content><author><name></name></author><category term="blog" /><category term="競馬" /><summary type="html"><![CDATA[今週末は風が強く釣りはお休みです。コロナウィルスも蔓延しているので、今日は自宅で競馬して、余裕があれば統計のお勉強などしようかと思ってます。]]></summary></entry><entry><title type="html">釣りと競馬</title><link href="http://0.0.0.0:4000/blog/2022/07/24/%E9%87%A3%E3%82%8A%E3%81%A8%E7%AB%B6%E9%A6%AC.html" rel="alternate" type="text/html" title="釣りと競馬" /><published>2022-07-24T00:00:00+09:00</published><updated>2022-07-24T00:00:00+09:00</updated><id>http://0.0.0.0:4000/blog/2022/07/24/%E9%87%A3%E3%82%8A%E3%81%A8%E7%AB%B6%E9%A6%AC</id><content type="html" xml:base="http://0.0.0.0:4000/blog/2022/07/24/%E9%87%A3%E3%82%8A%E3%81%A8%E7%AB%B6%E9%A6%AC.html"><![CDATA[<h2 id="wireguardというvpnを試してみました">WireGuardというVPNを試してみました</h2>
+</ul>]]></content><author><name></name></author><category term="blog" /><category term="競馬" /><summary type="html"><![CDATA[今週末は風が強く釣りはお休みです。コロナウィルスも蔓延しているので、今日は自宅で競馬して、余裕があれば統計のお勉強などしようかと思ってます。]]></summary></entry><entry><title type="html">野菜スープと青じそジュース</title><link href="http://0.0.0.0:4000/blog/2022/07/24/%E9%87%8E%E8%8F%9C%E3%82%B9%E3%83%BC%E3%83%97%E3%81%A8%E9%9D%92%E3%81%98%E3%81%9D%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B9.html" rel="alternate" type="text/html" title="野菜スープと青じそジュース" /><published>2022-07-24T00:00:00+09:00</published><updated>2022-07-24T00:00:00+09:00</updated><id>http://0.0.0.0:4000/blog/2022/07/24/%E9%87%8E%E8%8F%9C%E3%82%B9%E3%83%BC%E3%83%97%E3%81%A8%E9%9D%92%E3%81%98%E3%81%9D%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B9</id><content type="html" xml:base="http://0.0.0.0:4000/blog/2022/07/24/%E9%87%8E%E8%8F%9C%E3%82%B9%E3%83%BC%E3%83%97%E3%81%A8%E9%9D%92%E3%81%98%E3%81%9D%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B9.html"><![CDATA[<h2 id="作ってみたいレシピ">作ってみたいレシピ</h2>
+
+<h3 id="野菜スープ">野菜スープ</h3>
+
+<p>野菜そのものの味も楽しめて、ヘルシーで、これは作ってみたい。</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OtXYD5XSFXs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<h3 id="青じそスープ">青じそスープ</h3>
+
+<p>自宅の庭に沢山の青じそが自生してるので、これは作って、飲んでみたいレシピ。</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JfIMk2xvpyQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>]]></content><author><name></name></author><category term="blog" /><category term="レシピ" /><summary type="html"><![CDATA[作ってみたいレシピ]]></summary></entry><entry><title type="html">釣りと競馬</title><link href="http://0.0.0.0:4000/blog/2022/07/24/%E9%87%A3%E3%82%8A%E3%81%A8%E7%AB%B6%E9%A6%AC.html" rel="alternate" type="text/html" title="釣りと競馬" /><published>2022-07-24T00:00:00+09:00</published><updated>2022-07-24T00:00:00+09:00</updated><id>http://0.0.0.0:4000/blog/2022/07/24/%E9%87%A3%E3%82%8A%E3%81%A8%E7%AB%B6%E9%A6%AC</id><content type="html" xml:base="http://0.0.0.0:4000/blog/2022/07/24/%E9%87%A3%E3%82%8A%E3%81%A8%E7%AB%B6%E9%A6%AC.html"><![CDATA[<h2 id="wireguardというvpnを試してみました">WireGuardというVPNを試してみました</h2>
 
 <p>L2TP・IPSecとかOpenVPNなど、VPNを作るのはかなり難しそうなイメージでしたが、用途にもよるのでしょうが<strong>WireGuard</strong>という選択も有りだと思いました。</p>
 
@@ -174,27 +230,4 @@ AI予想では◎-▲で決まったので、馬連を買えてれば・・・�
 <ul>
   <li><a href="https://note.com/cybermamecan/n/nd278526f2ef3">[自作AI競馬予想] 中京記念(小倉競馬場 芝1800m)) - note</a></li>
   <li><a href="https://crazy.to48.org/showtime">最新の予想はこちらから</a></li>
-</ul>]]></content><author><name></name></author><category term="blog" /><category term="釣り" /><category term="競馬" /><category term="VPS" /><summary type="html"><![CDATA[WireGuardというVPNを試してみました]]></summary></entry><entry><title type="html">野菜スープと青じそジュース</title><link href="http://0.0.0.0:4000/blog/2022/07/24/%E9%87%8E%E8%8F%9C%E3%82%B9%E3%83%BC%E3%83%97%E3%81%A8%E9%9D%92%E3%81%98%E3%81%9D%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B9.html" rel="alternate" type="text/html" title="野菜スープと青じそジュース" /><published>2022-07-24T00:00:00+09:00</published><updated>2022-07-24T00:00:00+09:00</updated><id>http://0.0.0.0:4000/blog/2022/07/24/%E9%87%8E%E8%8F%9C%E3%82%B9%E3%83%BC%E3%83%97%E3%81%A8%E9%9D%92%E3%81%98%E3%81%9D%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B9</id><content type="html" xml:base="http://0.0.0.0:4000/blog/2022/07/24/%E9%87%8E%E8%8F%9C%E3%82%B9%E3%83%BC%E3%83%97%E3%81%A8%E9%9D%92%E3%81%98%E3%81%9D%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B9.html"><![CDATA[<h2 id="作ってみたいレシピ">作ってみたいレシピ</h2>
-
-<h3 id="野菜スープ">野菜スープ</h3>
-
-<p>野菜そのものの味も楽しめて、ヘルシーで、これは作ってみたい。</p>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OtXYD5XSFXs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-<h3 id="青じそスープ">青じそスープ</h3>
-
-<p>自宅の庭に沢山の青じそが自生してるので、これは作って、飲んでみたいレシピ。</p>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JfIMk2xvpyQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>]]></content><author><name></name></author><category term="blog" /><category term="レシピ" /><summary type="html"><![CDATA[作ってみたいレシピ]]></summary></entry><entry><title type="html">今日は競馬-函館記念</title><link href="http://0.0.0.0:4000/blog/2022/07/17/%E4%BB%8A%E6%97%A5%E3%81%AF%E7%AB%B6%E9%A6%AC-%E5%87%BD%E9%A4%A8%E8%A8%98%E5%BF%B5.html" rel="alternate" type="text/html" title="今日は競馬-函館記念" /><published>2022-07-17T00:00:00+09:00</published><updated>2022-07-17T00:00:00+09:00</updated><id>http://0.0.0.0:4000/blog/2022/07/17/%E4%BB%8A%E6%97%A5%E3%81%AF%E7%AB%B6%E9%A6%AC-%E5%87%BD%E9%A4%A8%E8%A8%98%E5%BF%B5</id><content type="html" xml:base="http://0.0.0.0:4000/blog/2022/07/17/%E4%BB%8A%E6%97%A5%E3%81%AF%E7%AB%B6%E9%A6%AC-%E5%87%BD%E9%A4%A8%E8%A8%98%E5%BF%B5.html"><![CDATA[<h2 id="今回は天気悪かったですね">今回は天気悪かったですね・・・</h2>
-
-<p>馬場状態もあまり良くなく、馬券も難しかった。</p>
-
-<h3 id="メインレースは函館競馬場の函館記念">メインレースは函館競馬場の函館記念</h3>
-
-<p>◎マイネルウィルトスは２着に来てくれたけど、△ハヤヤッコまでは買えなかった。残念。</p>
-
-<ul>
-  <li><a href="https://crazy.to48.org/showtime">最新の予想はこちらから</a></li>
-  <li><a href="https://note.com/cybermamecan/n/n6947190b567d">[自作AI競馬予想] 函館記念(函館競馬場 芝2000m) - note</a></li>
-</ul>]]></content><author><name></name></author><category term="blog" /><category term="競馬" /><summary type="html"><![CDATA[今回は天気悪かったですね・・・]]></summary></entry></feed>
+</ul>]]></content><author><name></name></author><category term="blog" /><category term="釣り" /><category term="競馬" /><category term="VPS" /><summary type="html"><![CDATA[WireGuardというVPNを試してみました]]></summary></entry></feed>
