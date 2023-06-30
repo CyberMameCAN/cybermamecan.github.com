@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2023-06-28T07:20:50+09:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">田舎住み＠CyberMameCANのWeb履歴</title><subtitle>サイバーまめカンの裏アカ。マイHUB。Web履歴と活動メーター</subtitle><entry><title type="html">2023.6月まとめ、カヤックフィッシングやマイルCなど</title><link href="http://0.0.0.0:4000/blog/2023/06/28/2023.6%E6%9C%88%E3%81%BE%E3%81%A8%E3%82%81.html" rel="alternate" type="text/html" title="2023.6月まとめ、カヤックフィッシングやマイルCなど" /><published>2023-06-28T00:00:00+09:00</published><updated>2023-06-28T00:00:00+09:00</updated><id>http://0.0.0.0:4000/blog/2023/06/28/2023.6%E6%9C%88%E3%81%BE%E3%81%A8%E3%82%81</id><content type="html" xml:base="http://0.0.0.0:4000/blog/2023/06/28/2023.6%E6%9C%88%E3%81%BE%E3%81%A8%E3%82%81.html"><![CDATA[<h2 id="it関係">IT関係</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2023-06-30T11:30:28+09:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">田舎住み＠CyberMameCANのWeb履歴</title><subtitle>サイバーまめカンの裏アカ。マイHUB。Web履歴と活動メーター</subtitle><entry><title type="html">2023.6月まとめ、カヤックフィッシングやマイルCなど</title><link href="http://0.0.0.0:4000/blog/2023/06/30/2023.6%E6%9C%88%E3%81%BE%E3%81%A8%E3%82%81.html" rel="alternate" type="text/html" title="2023.6月まとめ、カヤックフィッシングやマイルCなど" /><published>2023-06-30T00:00:00+09:00</published><updated>2023-06-30T00:00:00+09:00</updated><id>http://0.0.0.0:4000/blog/2023/06/30/2023.6%E6%9C%88%E3%81%BE%E3%81%A8%E3%82%81</id><content type="html" xml:base="http://0.0.0.0:4000/blog/2023/06/30/2023.6%E6%9C%88%E3%81%BE%E3%81%A8%E3%82%81.html"><![CDATA[<h2 id="it関係">IT関係</h2>
 
 <ul>
   <li><a href="https://blog.tstylestudio.com/2023/06/13/%e9%ab%98%e6%a0%a1%e3%81%ae%e5%85%a5%e8%a9%a6%e5%95%8f%e9%a1%8c4%e3%82%92%e3%81%8b%e3%81%91%e3%82%8b%e3%81%a8%e3%81%b2%e3%81%a3%e3%81%8f%e3%82%8a%e8%bf%94%e3%82%8b%e6%95%b0%e3%82%92python%e3%81%a7/">高校の入試問題(4をかけるとひっくり返る数)をPythonで解いてみた</a></li>
@@ -6,7 +6,7 @@
 
 <h2 id="競馬の予想">競馬の予想</h2>
 
-<p>今月は宝塚記念と地方競馬の帝王賞</p>
+<p>今月は宝塚記念と地方競馬の帝王賞、それと帝王賞を最適化問題で解けるか試してみました。</p>
 
 <ul>
   <li><a href="https://note.com/cybermamecan/n/nbb143e1d0417">安田記念（東京競馬場 芝1600m・C）</a></li>
@@ -14,7 +14,7 @@
   <li><a href="https://note.com/cybermamecan/n/n8ba78647b184">ユニコーンS（東京競馬場 ダ1600m）</a></li>
   <li><a href="https://note.com/cybermamecan/n/nfba85515e8a1">宝塚記念（阪神競馬場 芝2200m・内B）</a></li>
   <li><a href="https://note.com/cybermamecan/n/nc2950799b3d1">帝王賞2023 </a></li>
-  <li><a href=""></a></li>
+  <li><a href="https://note.com/cybermamecan/n/ne5842c0e9927">帝王賞を最適化問題で解いたらどうだったか？ </a></li>
 </ul>
 
 <h2 id="釣りカヤックフィッシング">釣り・カヤックフィッシング</h2>
