@@ -1,4 +1,44 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2023-08-31T23:19:01+09:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">田舎住み＠CyberMameCANのWeb履歴</title><subtitle>サイバーまめカンの裏アカ。マイHUB。Web履歴と活動メーター</subtitle><entry><title type="html">2023.8月まとめ、競馬の関屋記念や札幌記念、カヤックフィッシングでエギング、MacBookProのバッテリー交換</title><link href="http://0.0.0.0:4000/blog/2023/08/31/2023.8%E6%9C%88%E3%81%BE%E3%81%A8%E3%82%81.html" rel="alternate" type="text/html" title="2023.8月まとめ、競馬の関屋記念や札幌記念、カヤックフィッシングでエギング、MacBookProのバッテリー交換" /><published>2023-08-31T00:00:00+09:00</published><updated>2023-08-31T00:00:00+09:00</updated><id>http://0.0.0.0:4000/blog/2023/08/31/2023.8%E6%9C%88%E3%81%BE%E3%81%A8%E3%82%81</id><content type="html" xml:base="http://0.0.0.0:4000/blog/2023/08/31/2023.8%E6%9C%88%E3%81%BE%E3%81%A8%E3%82%81.html"><![CDATA[<h2 id="it関係">IT関係</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2023-10-05T21:10:46+09:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">田舎住み＠CyberMameCANのWeb履歴</title><subtitle>サイバーまめカンの裏アカ。マイHUB。Web履歴と活動メーター</subtitle><entry><title type="html">2023.10月まとめ、カヤックフィッシングでエギング、競馬予想・スプリンターズSなど</title><link href="http://0.0.0.0:4000/blog/2023/10/05/2023.9%E6%9C%88%E3%81%BE%E3%81%A8%E3%82%81.html" rel="alternate" type="text/html" title="2023.10月まとめ、カヤックフィッシングでエギング、競馬予想・スプリンターズSなど" /><published>2023-10-05T00:00:00+09:00</published><updated>2023-10-05T00:00:00+09:00</updated><id>http://0.0.0.0:4000/blog/2023/10/05/2023.9%E6%9C%88%E3%81%BE%E3%81%A8%E3%82%81</id><content type="html" xml:base="http://0.0.0.0:4000/blog/2023/10/05/2023.9%E6%9C%88%E3%81%BE%E3%81%A8%E3%82%81.html"><![CDATA[<h2 id="it関係">IT関係</h2>
+
+<h2 id="競馬の予想">競馬の予想</h2>
+
+<ul>
+  <li><a href="https://note.com/cybermamecan/n/n2a047390cea2">スプリンターズS(中山競馬場 芝1200m・C) </a></li>
+  <li><a href=""></a></li>
+</ul>
+
+<h2 id="釣りカヤックフィッシング">釣り・カヤックフィッシング</h2>
+
+<p>アオリイカも順調に釣れだしました。</p>
+
+<ul>
+  <li><a href="https://note.com/cybermamecan/n/n2a047390cea2">ガーミン魚探の電源が入らなかった日、烏賊2ハイ</a></li>
+</ul>]]></content><author><name></name></author><category term="blog" /><category term="競馬" /><category term="釣り" /><category term="IT関係" /><summary type="html"><![CDATA[IT関係]]></summary></entry><entry><title type="html">2023.9月まとめ、カヤックフィッシングでエギング、競馬予想・オールカマーなど</title><link href="http://0.0.0.0:4000/blog/2023/10/05/2023.10%E6%9C%88%E3%81%BE%E3%81%A8%E3%82%81.html" rel="alternate" type="text/html" title="2023.9月まとめ、カヤックフィッシングでエギング、競馬予想・オールカマーなど" /><published>2023-10-05T00:00:00+09:00</published><updated>2023-10-05T00:00:00+09:00</updated><id>http://0.0.0.0:4000/blog/2023/10/05/2023.10%E6%9C%88%E3%81%BE%E3%81%A8%E3%82%81</id><content type="html" xml:base="http://0.0.0.0:4000/blog/2023/10/05/2023.10%E6%9C%88%E3%81%BE%E3%81%A8%E3%82%81.html"><![CDATA[<h2 id="it関係">IT関係</h2>
+
+<ul>
+  <li><a href="https://blog.tstylestudio.com/2023/09/15/zsh%e3%81%ae%e3%80%8czsh-compinit-insecure-files-run-compaudit-for-list-%e3%80%8d%e3%81%a8%e3%81%84%e3%81%86%e3%83%ad%e3%82%b0%e3%82%a4%e3%83%b3%e6%99%82%e3%81%ae%e3%83%a1%e3%83%83%e3%82%bb%e3%83%bc/">Zshの「zsh compinit: insecure files, run compaudit for list.」というログイン時のメッセージ</a></li>
+  <li><a href="https://blog.tstylestudio.com/2023/09/18/mpirun%e3%81%a7%e3%80%8cinvalid-mit-magic-cookie-1-keyinvalid-mit-magic-cookie-1-key%e3%80%8d/">mpirunで「Invalid MIT-MAGIC-COOKIE-1 keyInvalid MIT-MAGIC-COOKIE-1 key」</a></li>
+  <li><a href="https://blog.tstylestudio.com/2023/09/19/jetson-nano-ubuntu18%e3%81%a7flash-kernel%e3%83%91%e3%83%83%e3%82%b1%e3%83%bc%e3%82%b8%e3%82%a8%e3%83%a9%e3%83%bc/">Jetson nano Ubuntu18でflash-kernelパッケージエラー</a></li>
+</ul>
+
+<h2 id="競馬の予想">競馬の予想</h2>
+
+<ul>
+  <li><a href="https://note.com/cybermamecan/n/n73ed478efcc8">農林水産省賞典新潟記念(新潟競馬場 芝2000m・外A) </a></li>
+  <li><a href="https://note.com/cybermamecan/n/n9809ac5018e4">紫苑S(中山競馬場 芝2000m・B) </a></li>
+  <li><a href="https://note.com/cybermamecan/n/n7c28a1a3f1c0">セントウルS(阪神競馬場 芝1200m・内B) </a></li>
+  <li><a href="https://note.com/cybermamecan/n/n25ed0cb33df3">ローズS(阪神競馬場 芝1800m・外A) </a></li>
+  <li><a href="https://note.com/cybermamecan/n/nb4ad18af8e63">セントライト記念(中山競馬場 芝2200m・B) </a></li>
+  <li><a href="https://note.com/cybermamecan/n/n1f51541637aa">神戸新聞杯(阪神競馬場 芝2400m・外B) </a></li>
+  <li><a href="https://note.com/cybermamecan/n/ndc3b659fcc42">オールカマー(中山競馬場 芝2200m・C) </a></li>
+</ul>
+
+<h2 id="釣りカヤックフィッシング">釣り・カヤックフィッシング</h2>
+
+<ul>
+  <li><a href="https://egingerz.hatenablog.com/entry/2023/09/14/173658">烏賊とエソとイトフエフキ</a></li>
+  <li><a href="https://egingerz.hatenablog.com/entry/2023/09/18/211807">イラッとするらしい・・・イラという魚</a></li>
+</ul>]]></content><author><name></name></author><category term="blog" /><category term="競馬" /><category term="釣り" /><category term="IT関係" /><summary type="html"><![CDATA[IT関係]]></summary></entry><entry><title type="html">2023.8月まとめ、競馬の関屋記念や札幌記念、カヤックフィッシングでエギング、MacBookProのバッテリー交換</title><link href="http://0.0.0.0:4000/blog/2023/08/31/2023.8%E6%9C%88%E3%81%BE%E3%81%A8%E3%82%81.html" rel="alternate" type="text/html" title="2023.8月まとめ、競馬の関屋記念や札幌記念、カヤックフィッシングでエギング、MacBookProのバッテリー交換" /><published>2023-08-31T00:00:00+09:00</published><updated>2023-08-31T00:00:00+09:00</updated><id>http://0.0.0.0:4000/blog/2023/08/31/2023.8%E6%9C%88%E3%81%BE%E3%81%A8%E3%82%81</id><content type="html" xml:base="http://0.0.0.0:4000/blog/2023/08/31/2023.8%E6%9C%88%E3%81%BE%E3%81%A8%E3%82%81.html"><![CDATA[<h2 id="it関係">IT関係</h2>
 
 <ul>
   <li><a href="https://blog.tstylestudio.com/2023/08/04/macbookpro-intel-2016%e3%83%a2%e3%83%87%e3%83%ab%e3%81%ae%e3%83%90%e3%83%83%e3%83%86%e3%83%aa%e3%83%bc%e4%ba%a4%e6%8f%9b/">MacBookPro (Intel) 2016モデルのバッテリー交換</a></li>
@@ -209,45 +249,4 @@ OSに近い環境を少々アップデートしました。<br />
   <li><a href="https://note.com/cybermamecan/n/nca06d5517fbf">シルクロードＳ(中京競馬場 芝1200m・B) </a></li>
   <li><a href="https://note.com/cybermamecan/n/n0d804ef6ad38">根岸Ｓ(東京競馬場 ダート1400m) </a></li>
   <li><a href="https://note.com/cybermamecan/n/n29fb8c6c0e18">川崎記念2023年(川崎競馬場)16:10発走 </a></li>
-</ul>]]></content><author><name></name></author><category term="blog" /><category term="競馬" /><category term="web技術" /><summary type="html"><![CDATA[今日と明日はかなりの冷えです。鹿児島でも氷点下4度か5度位とか・・・なかなかお目にかかれない数値です。]]></summary></entry><entry><title type="html">早速のカヤックフィッシングと競馬の金杯</title><link href="http://0.0.0.0:4000/blog/2023/01/12/%E6%97%A9%E9%80%9F%E3%81%AE%E3%82%AB%E3%83%A4%E3%83%83%E3%82%AF%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%B3%E3%82%B0%E3%81%A8%E7%AB%B6%E9%A6%AC%E3%81%AE%E9%87%91%E6%9D%AF.html" rel="alternate" type="text/html" title="早速のカヤックフィッシングと競馬の金杯" /><published>2023-01-12T00:00:00+09:00</published><updated>2023-01-12T00:00:00+09:00</updated><id>http://0.0.0.0:4000/blog/2023/01/12/%E6%97%A9%E9%80%9F%E3%81%AE%E3%82%AB%E3%83%A4%E3%83%83%E3%82%AF%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%B3%E3%82%B0%E3%81%A8%E7%AB%B6%E9%A6%AC%E3%81%AE%E9%87%91%E6%9D%AF</id><content type="html" xml:base="http://0.0.0.0:4000/blog/2023/01/12/%E6%97%A9%E9%80%9F%E3%81%AE%E3%82%AB%E3%83%A4%E3%83%83%E3%82%AF%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%B3%E3%82%B0%E3%81%A8%E7%AB%B6%E9%A6%AC%E3%81%AE%E9%87%91%E6%9D%AF.html"><![CDATA[<h2 id="釣り">釣り</h2>
-
-<p>年明け早々はまだ寒いので、なかなかカヤックフィッシングする機会は無いのですが、今年は暖かく、早速釣りしてきました。</p>
-
-<ul>
-  <li><a href="https://egingerz.hatenablog.com/entry/2023/01/10/171420">1月にカヤックフィッシング</a></li>
-</ul>
-
-<h2 id="競馬の予想">競馬の予想</h2>
-
-<p>今年は金杯取れて良い一年のスタートを切れました。</p>
-
-<ul>
-  <li><a href="https://note.com/cybermamecan/n/nf5b21570f72d">中山金杯(中山競馬場 芝2000m・C)</a></li>
-  <li><a href="https://note.com/cybermamecan/n/n185b9bd838b1">京都金杯(中京競馬場 芝1600m・A) </a></li>
-  <li><a href="https://note.com/cybermamecan/n/nb544ce5e067f">淀短距離ステークス(中京競馬場 芝1200m・A) </a></li>
-</ul>]]></content><author><name></name></author><category term="blog" /><category term="競馬" /><summary type="html"><![CDATA[釣り]]></summary></entry><entry><title type="html">2022振り返りと、有馬記念・ホープフル・東京大賞典</title><link href="http://0.0.0.0:4000/blog/2023/01/01/2022%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8A%E3%81%A8-%E6%9C%89%E9%A6%AC%E8%A8%98%E5%BF%B5-%E3%83%9B%E3%83%BC%E3%83%97%E3%83%95%E3%83%AB-%E6%9D%B1%E4%BA%AC%E5%A4%A7%E8%B3%9E%E5%85%B8.html" rel="alternate" type="text/html" title="2022振り返りと、有馬記念・ホープフル・東京大賞典" /><published>2023-01-01T00:00:00+09:00</published><updated>2023-01-01T00:00:00+09:00</updated><id>http://0.0.0.0:4000/blog/2023/01/01/2022%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8A%E3%81%A8%E3%80%81%E6%9C%89%E9%A6%AC%E8%A8%98%E5%BF%B5%E3%83%BB%E3%83%9B%E3%83%BC%E3%83%97%E3%83%95%E3%83%AB%E3%83%BB%E6%9D%B1%E4%BA%AC%E5%A4%A7%E8%B3%9E%E5%85%B8</id><content type="html" xml:base="http://0.0.0.0:4000/blog/2023/01/01/2022%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8A%E3%81%A8-%E6%9C%89%E9%A6%AC%E8%A8%98%E5%BF%B5-%E3%83%9B%E3%83%BC%E3%83%97%E3%83%95%E3%83%AB-%E6%9D%B1%E4%BA%AC%E5%A4%A7%E8%B3%9E%E5%85%B8.html"><![CDATA[<p>あけましておめでとうございます</p>
-
-<h1 id="昨年先週の振り返り">昨年・先週の振り返り</h1>
-
-<p>年末だったので、少々時間を作ってRailsを再勉強してみることにました。最近Rubyは遠ざかってましたが、認証周りをちょっと勉強してみたくなって、チュートリアルが充実していたRailsで頑張って習得目指してみようと思ってます。</p>
-
-<p>昨年の振り返りもしてみました。<br />
-私の3大ニュースを考えてみました。</p>
-
-<ul>
-  <li><a href="https://note.com/cybermamecan/n/n010885863eec">今年(2022年)の振り返り </a></li>
-</ul>
-
-<h2 id="釣り">釣り</h2>
-
-<p>釣りは結局余り行けませんでした。週末ごとに風が強くて・・・</p>
-
-<h2 id="競馬の予想">競馬の予想</h2>
-
-<p>尻すぼみのAI競馬予想でした。。。</p>
-
-<ul>
-  <li><a href="https://note.com/cybermamecan/n/n2ef94eb0dd2c">第67回有馬記念（中山競馬場 芝2500m・A）</a></li>
-  <li><a href="https://note.com/cybermamecan/n/n850f09970a0d">第39回ホープフルＳ（中山競馬場 芝2000m・A）</a></li>
-  <li><a href="https://note.com/cybermamecan/n/n050909e1ad6c">東京大賞典2022年（大井競馬場）</a></li>
-</ul>]]></content><author><name></name></author><category term="blog" /><category term="競馬" /><summary type="html"><![CDATA[あけましておめでとうございます]]></summary></entry></feed>
+</ul>]]></content><author><name></name></author><category term="blog" /><category term="競馬" /><category term="web技術" /><summary type="html"><![CDATA[今日と明日はかなりの冷えです。鹿児島でも氷点下4度か5度位とか・・・なかなかお目にかかれない数値です。]]></summary></entry></feed>
